@@ -1,0 +1,1 @@
+lucene=10.5.0 docs=1400 vocab=5172 tokens=143285 meanLen=102.35 q1=62 q3=134

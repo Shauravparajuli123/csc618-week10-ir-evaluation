@@ -1,0 +1,13 @@
+query	hits	distinctTop100Scores	topScore	top5
+TermQuery  boundari	470	62	0.952	4,899,1154,335,671
+PhraseQuery  "boundari layer"	367	69	2.015	4,899,671,1149,1225
+PhraseQuery  "layer boundari" (reversed)	0	0	0.000	
+PhraseQuery slop=2  "layer boundari"	367	72	1.609	4,376,899,671,1149
+TermRangeQuery  [bound TO boundz]	482	1	1.000	1,2,3,4,7
+IntPoint range  len in [62,134]	710	1	1.000	1,2,6,8,11
+BooleanQuery  +boundari +layer -transit	307	80	2.015	4,899,671,1149,1225
+PrefixQuery  aero*	230	1	1.000	1,5,11,12,13
+WildcardQuery  t?rbul*	145	1	1.000	7,9,16,17,40
+FuzzyQuery  turbulanc~2 (misspelt)	4	4	2.532	74,651,257,822
+TermQuery  turbulanc (misspelt)	0	0	0.000	
+MatchAllDocsQuery	1400	1	1.000	1,2,3,4,5

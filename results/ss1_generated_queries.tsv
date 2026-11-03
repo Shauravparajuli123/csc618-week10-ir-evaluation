@@ -1,0 +1,2251 @@
+qid	type	query
+1	Term	contents:obei
+1	Phrase	contents:"aeroelast model"
+1	Range-Numeric	len:[62 TO 134]
+1	Range-Lexical	contents:[obei TO obei]
+1	Boolean	+contents:obei contents:what contents:similar contents:law contents:must contents:when contents:construct contents:aeroelast contents:model contents:heat contents:high contents:speed contents:aircraft
+1	Prefix	contents:obei*
+1	Wildcard	contents:obei*
+1	Fuzzy	contents:obei~2
+1	MatchAll	*:*
+1	OR-Baseline	contents:what contents:similar contents:law contents:must contents:obei contents:when contents:construct contents:aeroelast contents:model contents:heat contents:high contents:speed contents:aircraft
+2	Term	contents:what
+2	Phrase	contents:"structur ? aeroelast"
+2	Range-Numeric	len:[62 TO 134]
+2	Range-Lexical	contents:[what TO what]
+2	Boolean	+contents:what contents:structur contents:aeroelast contents:problem contents:associ contents:flight contents:high contents:speed contents:aircraft
+2	Prefix	contents:what*
+2	Wildcard	contents:what*
+2	Fuzzy	contents:what~2
+2	MatchAll	*:*
+2	OR-Baseline	contents:what contents:structur contents:aeroelast contents:problem contents:associ contents:flight contents:high contents:speed contents:aircraft
+3	Term	contents:slab
+3	Phrase	contents:"composit slab"
+3	Range-Numeric	len:[62 TO 134]
+3	Range-Lexical	contents:[slab TO slab]
+3	Boolean	+contents:slab contents:what contents:problem contents:heat contents:conduct contents:composit contents:have contents:been contents:solv contents:so contents:far
+3	Prefix	contents:slab*
+3	Wildcard	contents:slab*
+3	Fuzzy	contents:slab~2
+3	MatchAll	*:*
+3	OR-Baseline	contents:what contents:problem contents:heat contents:conduct contents:composit contents:slab contents:have contents:been contents:solv contents:so contents:far
+4	Term	contents:react
+4	Phrase	contents:"chemic react"
+4	Range-Numeric	len:[62 TO 134]
+4	Range-Lexical	contents:[reac TO react]
+4	Boolean	+contents:react contents:can contents:criterion contents:develop contents:show contents:empir contents:valid contents:flow contents:solut contents:chemic contents:ga contents:mixtur contents:base contents:simplifi contents:assumpt contents:instantan contents:local contents:chemic contents:equilibrium
+4	Prefix	contents:reac*
+4	Wildcard	contents:rea*t
+4	Fuzzy	contents:react~2
+4	MatchAll	*:*
+4	OR-Baseline	contents:can contents:criterion contents:develop contents:show contents:empir contents:valid contents:flow contents:solut contents:chemic contents:react contents:ga contents:mixtur contents:base contents:simplifi contents:assumpt contents:instantan contents:local contents:chemic contents:equilibrium
+5	Term	contents:what
+5	Phrase	contents:"chemic kinet"
+5	Range-Numeric	len:[62 TO 134]
+5	Range-Lexical	contents:[what TO what]
+5	Boolean	+contents:what contents:chemic contents:kinet contents:system contents:applic contents:hyperson contents:aerodynam contents:problem
+5	Prefix	contents:what*
+5	Wildcard	contents:what*
+5	Fuzzy	contents:what~2
+5	MatchAll	*:*
+5	OR-Baseline	contents:what contents:chemic contents:kinet contents:system contents:applic contents:hyperson contents:aerodynam contents:problem
+6	Term	contents:couett
+6	Phrase	contents:"turbul couett"
+6	Range-Numeric	len:[62 TO 134]
+6	Range-Lexical	contents:[coue TO couett]
+6	Boolean	+contents:couett contents:what contents:theoret contents:experiment contents:guid contents:do contents:we contents:have contents:turbul contents:flow contents:behaviour
+6	Prefix	contents:coue*
+6	Wildcard	contents:cou*t
+6	Fuzzy	contents:couett~2
+6	MatchAll	*:*
+6	OR-Baseline	contents:what contents:theoret contents:experiment contents:guid contents:do contents:we contents:have contents:turbul contents:couett contents:flow contents:behaviour
+7	Term	contents:forebodi
+7	Phrase	contents:"ogiv forebodi"
+7	Range-Numeric	len:[62 TO 134]
+7	Range-Lexical	contents:[fore TO forebodi]
+7	Boolean	+contents:forebodi contents:possibl contents:relat contents:avail contents:pressur contents:distribut contents:ogiv contents:zero contents:angl contents:attack contents:lower contents:surfac contents:pressur contents:equival contents:ogiv contents:angl contents:attack
+7	Prefix	contents:fore*
+7	Wildcard	contents:for*i
+7	Fuzzy	contents:forebodi~2
+7	MatchAll	*:*
+7	OR-Baseline	contents:possibl contents:relat contents:avail contents:pressur contents:distribut contents:ogiv contents:forebodi contents:zero contents:angl contents:attack contents:lower contents:surfac contents:pressur contents:equival contents:ogiv contents:forebodi contents:angl contents:attack
+8	Term	contents:dash
+8	Phrase	contents:"angl ? attack"
+8	Range-Numeric	len:[62 TO 134]
+8	Range-Lexical	contents:[dash TO dash]
+8	Boolean	+contents:dash contents:what contents:method contents:exact contents:approxim contents:present contents:avail contents:predict contents:bodi contents:pressur contents:angl contents:attack
+8	Prefix	contents:dash*
+8	Wildcard	contents:dash*
+8	Fuzzy	contents:dash~2
+8	MatchAll	*:*
+8	OR-Baseline	contents:what contents:method contents:dash contents:exact contents:approxim contents:dash contents:present contents:avail contents:predict contents:bodi contents:pressur contents:angl contents:attack
+9	Term	contents:slip
+9	Phrase	contents:"slip flow"
+9	Range-Numeric	len:[62 TO 134]
+9	Range-Lexical	contents:[slip TO slip]
+9	Boolean	+contents:slip contents:paper contents:intern contents:flow contents:heat contents:transfer contents:studi
+9	Prefix	contents:slip*
+9	Wildcard	contents:slip*
+9	Fuzzy	contents:slip~2
+9	MatchAll	*:*
+9	OR-Baseline	contents:paper contents:intern contents:slip contents:flow contents:heat contents:transfer contents:studi
+10	Term	contents:transport
+10	Phrase	contents:"transport properti"
+10	Range-Numeric	len:[62 TO 134]
+10	Range-Lexical	contents:[tran TO transport]
+10	Boolean	+contents:transport contents:real contents:ga contents:properti contents:air contents:avail contents:over contents:wide contents:rang contents:enthalpi contents:densiti
+10	Prefix	contents:tran*
+10	Wildcard	contents:tra*t
+10	Fuzzy	contents:transport~2
+10	MatchAll	*:*
+10	OR-Baseline	contents:real contents:ga contents:transport contents:properti contents:air contents:avail contents:over contents:wide contents:rang contents:enthalpi contents:densiti
+11	Term	contents:blast
+11	Phrase	contents:"strong blast"
+11	Range-Numeric	len:[62 TO 134]
+11	Range-Lexical	contents:[blas TO blast]
+11	Boolean	+contents:blast contents:possibl contents:find contents:analyt contents:similar contents:solut contents:strong contents:wave contents:problem contents:newtonian contents:approxim
+11	Prefix	contents:blas*
+11	Wildcard	contents:bla*t
+11	Fuzzy	contents:blast~2
+11	MatchAll	*:*
+11	OR-Baseline	contents:possibl contents:find contents:analyt contents:similar contents:solut contents:strong contents:blast contents:wave contents:problem contents:newtonian contents:approxim
+12	Term	contents:channel
+12	Phrase	contents:"perform ? channel"
+12	Range-Numeric	len:[62 TO 134]
+12	Range-Lexical	contents:[chan TO channel]
+12	Boolean	+contents:channel contents:how contents:can contents:aerodynam contents:perform contents:flow contents:ground contents:effect contents:machin contents:calcul
+12	Prefix	contents:chan*
+12	Wildcard	contents:cha*l
+12	Fuzzy	contents:channel~2
+12	MatchAll	*:*
+12	OR-Baseline	contents:how contents:can contents:aerodynam contents:perform contents:channel contents:flow contents:ground contents:effect contents:machin contents:calcul
+13	Term	contents:buzz
+13	Phrase	contents:"aileron buzz"
+13	Range-Numeric	len:[62 TO 134]
+13	Range-Lexical	contents:[buzz TO buzz]
+13	Boolean	+contents:buzz contents:what contents:basic contents:mechan contents:transon contents:aileron
+13	Prefix	contents:buzz*
+13	Wildcard	contents:buzz*
+13	Fuzzy	contents:buzz~2
+13	MatchAll	*:*
+13	OR-Baseline	contents:what contents:basic contents:mechan contents:transon contents:aileron contents:buzz
+14	Term	contents:sound
+14	Phrase	contents:"sound wave"
+14	Range-Numeric	len:[62 TO 134]
+14	Range-Lexical	contents:[soun TO sound]
+14	Boolean	+contents:sound contents:paper contents:shock contents:wave contents:interact
+14	Prefix	contents:soun*
+14	Wildcard	contents:sou*d
+14	Fuzzy	contents:sound~2
+14	MatchAll	*:*
+14	OR-Baseline	contents:paper contents:shock contents:sound contents:wave contents:interact
+15	Term	contents:photoelast
+15	Phrase	contents:"materi properti"
+15	Range-Numeric	len:[62 TO 134]
+15	Range-Lexical	contents:[phot TO photoelast]
+15	Boolean	+contents:photoelast contents:materi contents:properti contents:materi
+15	Prefix	contents:phot*
+15	Wildcard	contents:pho*t
+15	Fuzzy	contents:photoelast~2
+15	MatchAll	*:*
+15	OR-Baseline	contents:materi contents:properti contents:photoelast contents:materi
+16	Term	contents:electron
+16	Phrase	contents:"electron comput"
+16	Range-Numeric	len:[62 TO 134]
+16	Range-Lexical	contents:[elec TO electron]
+16	Boolean	+contents:electron contents:can contents:transvers contents:potenti contents:flow contents:about contents:bodi contents:revolut contents:calcul contents:effici contents:comput
+16	Prefix	contents:elec*
+16	Wildcard	contents:ele*n
+16	Fuzzy	contents:electron~2
+16	MatchAll	*:*
+16	OR-Baseline	contents:can contents:transvers contents:potenti contents:flow contents:about contents:bodi contents:revolut contents:calcul contents:effici contents:electron contents:comput
+17	Term	contents:potenti
+17	Phrase	contents:"transvers potenti"
+17	Range-Numeric	len:[62 TO 134]
+17	Range-Lexical	contents:[pote TO potenti]
+17	Boolean	+contents:potenti contents:can contents:three contents:dimension contents:problem contents:transvers contents:flow contents:about contents:bodi contents:revolut contents:reduc contents:two contents:dimension contents:problem
+17	Prefix	contents:pote*
+17	Wildcard	contents:pot*i
+17	Fuzzy	contents:potenti~2
+17	MatchAll	*:*
+17	OR-Baseline	contents:can contents:three contents:dimension contents:problem contents:transvers contents:potenti contents:flow contents:about contents:bodi contents:revolut contents:reduc contents:two contents:dimension contents:problem
+18	Term	contents:revolut
+18	Phrase	contents:"revolut ? angl"
+18	Range-Numeric	len:[62 TO 134]
+18	Range-Lexical	contents:[revo TO revolut]
+18	Boolean	+contents:revolut contents:experiment contents:pressur contents:distribut contents:bodi contents:angl contents:attack contents:avail
+18	Prefix	contents:revo*
+18	Wildcard	contents:rev*t
+18	Fuzzy	contents:revolut~2
+18	MatchAll	*:*
+18	OR-Baseline	contents:experiment contents:pressur contents:distribut contents:bodi contents:revolut contents:angl contents:attack contents:avail
+19	Term	contents:realist
+19	Phrase	contents:"re entri"
+19	Range-Numeric	len:[62 TO 134]
+19	Range-Lexical	contents:[real TO realist]
+19	Boolean	+contents:realist contents:doe contents:exist contents:good contents:basic contents:treatment contents:dynam contents:re contents:entri contents:combin contents:consider contents:effect contents:rel contents:simplic contents:result
+19	Prefix	contents:real*
+19	Wildcard	contents:rea*t
+19	Fuzzy	contents:realist~2
+19	MatchAll	*:*
+19	OR-Baseline	contents:doe contents:exist contents:good contents:basic contents:treatment contents:dynam contents:re contents:entri contents:combin contents:consider contents:realist contents:effect contents:rel contents:simplic contents:result
+20	Term	contents:joul
+20	Phrase	contents:"influenc ? joul"
+20	Range-Numeric	len:[62 TO 134]
+20	Range-Lexical	contents:[joul TO joul]
+20	Boolean	+contents:joul contents:ha contents:anyon contents:formal contents:determin contents:influenc contents:heat contents:produc contents:induc contents:current contents:magnetohydrodynam contents:free contents:convect contents:flow contents:under contents:gener contents:condit
+20	Prefix	contents:joul*
+20	Wildcard	contents:joul*
+20	Fuzzy	contents:joul~2
+20	MatchAll	*:*
+20	OR-Baseline	contents:ha contents:anyon contents:formal contents:determin contents:influenc contents:joul contents:heat contents:produc contents:induc contents:current contents:magnetohydrodynam contents:free contents:convect contents:flow contents:under contents:gener contents:condit
+21	Term	contents:why
+21	Phrase	contents:"helium ? air"
+21	Range-Numeric	len:[62 TO 134]
+21	Range-Lexical	contents:[why TO why]
+21	Boolean	+contents:why contents:doe contents:compress contents:transform contents:fail contents:correl contents:high contents:speed contents:data contents:helium contents:air
+21	Prefix	contents:why*
+21	Wildcard	contents:why*
+21	Fuzzy	contents:why~2
+21	MatchAll	*:*
+21	OR-Baseline	contents:why contents:doe contents:compress contents:transform contents:fail contents:correl contents:high contents:speed contents:data contents:helium contents:air
+22	Term	contents:discov
+22	Phrase	contents:"skin friction"
+22	Range-Numeric	len:[62 TO 134]
+22	Range-Lexical	contents:[disc TO discov]
+22	Boolean	+contents:discov contents:did contents:anyon contents:els contents:turbul contents:skin contents:friction contents:over contents:sensit contents:natur contents:variat contents:viscos contents:temperatur
+22	Prefix	contents:disc*
+22	Wildcard	contents:dis*v
+22	Fuzzy	contents:discov~2
+22	MatchAll	*:*
+22	OR-Baseline	contents:did contents:anyon contents:els contents:discov contents:turbul contents:skin contents:friction contents:over contents:sensit contents:natur contents:variat contents:viscos contents:temperatur
+23	Term	contents:what
+23	Phrase	contents:"research ? unsteadi"
+23	Range-Numeric	len:[62 TO 134]
+23	Range-Lexical	contents:[what TO what]
+23	Boolean	+contents:what contents:progress contents:ha contents:been contents:made contents:research contents:unsteadi contents:aerodynam
+23	Prefix	contents:what*
+23	Wildcard	contents:what*
+23	Fuzzy	contents:what~2
+23	MatchAll	*:*
+23	OR-Baseline	contents:what contents:progress contents:ha contents:been contents:made contents:research contents:unsteadi contents:aerodynam
+24	Term	contents:invert
+24	Phrase	contents:"structur matric"
+24	Range-Numeric	len:[62 TO 134]
+24	Range-Lexical	contents:[inve TO invert]
+24	Boolean	+contents:invert contents:what contents:factor contents:which contents:influenc contents:time contents:requir contents:larg contents:structur contents:matric
+24	Prefix	contents:inve*
+24	Wildcard	contents:inv*t
+24	Fuzzy	contents:invert~2
+24	MatchAll	*:*
+24	OR-Baseline	contents:what contents:factor contents:which contents:influenc contents:time contents:requir contents:invert contents:larg contents:structur contents:matric
+25	Term	contents:cascad
+25	Phrase	contents:"blade row"
+25	Range-Numeric	len:[62 TO 134]
+25	Range-Lexical	contents:[casc TO cascad]
+25	Boolean	+contents:cascad contents:doe contents:practic contents:flow contents:follow contents:theoret contents:concept contents:interact contents:between contents:adjac contents:blade contents:row contents:superson
+25	Prefix	contents:casc*
+25	Wildcard	contents:cas*d
+25	Fuzzy	contents:cascad~2
+25	MatchAll	*:*
+25	OR-Baseline	contents:doe contents:practic contents:flow contents:follow contents:theoret contents:concept contents:interact contents:between contents:adjac contents:blade contents:row contents:superson contents:cascad
+26	Term	contents:what
+26	Phrase	contents:"formula ? ? displac"
+26	Range-Numeric	len:[62 TO 134]
+26	Range-Lexical	contents:[what TO what]
+26	Boolean	+contents:what contents:singl contents:approxim contents:formula contents:displac contents:thick contents:laminar contents:boundari contents:layer contents:compress contents:flow contents:flat contents:plate
+26	Prefix	contents:what*
+26	Wildcard	contents:what*
+26	Fuzzy	contents:what~2
+26	MatchAll	*:*
+26	OR-Baseline	contents:what contents:singl contents:approxim contents:formula contents:displac contents:thick contents:laminar contents:boundari contents:layer contents:compress contents:flow contents:flat contents:plate
+27	Term	contents:ring
+27	Phrase	contents:"ring wing"
+27	Range-Numeric	len:[62 TO 134]
+27	Range-Lexical	contents:[ring TO ring]
+27	Boolean	+contents:ring contents:how contents:design contents:part contents:wing contents:linear contents:theori contents:affect contents:thick
+27	Prefix	contents:ring*
+27	Wildcard	contents:ring*
+27	Fuzzy	contents:ring~2
+27	MatchAll	*:*
+27	OR-Baseline	contents:how contents:design contents:ring contents:part contents:ring contents:wing contents:linear contents:theori contents:affect contents:thick
+28	Term	contents:what
+28	Phrase	contents:"linear theori"
+28	Range-Numeric	len:[62 TO 134]
+28	Range-Lexical	contents:[what TO what]
+28	Boolean	+contents:what contents:applic contents:ha contents:linear contents:theori contents:design contents:curv contents:wing
+28	Prefix	contents:what*
+28	Wildcard	contents:what*
+28	Fuzzy	contents:what~2
+28	MatchAll	*:*
+28	OR-Baseline	contents:what contents:applic contents:ha contents:linear contents:theori contents:design contents:curv contents:wing
+29	Term	contents:what
+29	Phrase	contents:"delta wing"
+29	Range-Numeric	len:[62 TO 134]
+29	Range-Lexical	contents:[what TO what]
+29	Boolean	+contents:what contents:effect contents:cross contents:section contents:shape contents:flow contents:over contents:simpl contents:delta contents:wing contents:sharp contents:lead contents:edg
+29	Prefix	contents:what*
+29	Wildcard	contents:what*
+29	Fuzzy	contents:what~2
+29	MatchAll	*:*
+29	OR-Baseline	contents:what contents:effect contents:cross contents:section contents:shape contents:flow contents:over contents:simpl contents:delta contents:wing contents:sharp contents:lead contents:edg
+30	Term	contents:visual
+30	Phrase	contents:"flow visual"
+30	Range-Numeric	len:[62 TO 134]
+30	Range-Lexical	contents:[visu TO visual]
+30	Boolean	+contents:visual contents:paper contents:flow contents:slender contents:conic contents:wing
+30	Prefix	contents:visu*
+30	Wildcard	contents:vis*l
+30	Fuzzy	contents:visual~2
+30	MatchAll	*:*
+30	OR-Baseline	contents:paper contents:flow contents:visual contents:slender contents:conic contents:wing
+31	Term	contents:safe
+31	Phrase	contents:"finit aspect"
+31	Range-Numeric	len:[62 TO 134]
+31	Range-Lexical	contents:[safe TO safe]
+31	Boolean	+contents:safe contents:what contents:size contents:end contents:plate contents:can contents:us contents:simul contents:two contents:dimension contents:flow contents:condit contents:over contents:bluff contents:cylindr contents:bodi contents:finit contents:aspect contents:ratio
+31	Prefix	contents:safe*
+31	Wildcard	contents:safe*
+31	Fuzzy	contents:safe~2
+31	MatchAll	*:*
+31	OR-Baseline	contents:what contents:size contents:end contents:plate contents:can contents:safe contents:us contents:simul contents:two contents:dimension contents:flow contents:condit contents:over contents:bluff contents:cylindr contents:bodi contents:finit contents:aspect contents:ratio
+32	Term	contents:find
+32	Phrase	contents:"slender thin"
+32	Range-Numeric	len:[62 TO 134]
+32	Range-Lexical	contents:[find TO find]
+32	Boolean	+contents:find contents:approxim contents:correct contents:thick contents:slender contents:thin contents:wing contents:theori
+32	Prefix	contents:find*
+32	Wildcard	contents:find*
+32	Fuzzy	contents:find~2
+32	MatchAll	*:*
+32	OR-Baseline	contents:find contents:approxim contents:correct contents:thick contents:slender contents:thin contents:wing contents:theori
+33	Term	contents:blockag
+33	Phrase	contents:"low blockag"
+33	Range-Numeric	len:[62 TO 134]
+33	Range-Lexical	contents:[bloc TO blockag]
+33	Boolean	+contents:blockag contents:how contents:do contents:interfer contents:free contents:longitudin contents:stabil contents:measur contents:made contents:us contents:free contents:flight contents:model contents:compar contents:similar contents:measur contents:made contents:low contents:wind contents:tunnel
+33	Prefix	contents:bloc*
+33	Wildcard	contents:blo*g
+33	Fuzzy	contents:blockag~2
+33	MatchAll	*:*
+33	OR-Baseline	contents:how contents:do contents:interfer contents:free contents:longitudin contents:stabil contents:measur contents:made contents:us contents:free contents:flight contents:model contents:compar contents:similar contents:measur contents:made contents:low contents:blockag contents:wind contents:tunnel
+34	Term	contents:systemat
+34	Phrase	contents:"investig ? ? systemat"
+34	Range-Numeric	len:[62 TO 134]
+34	Range-Lexical	contents:[syst TO systemat]
+34	Boolean	+contents:systemat contents:have contents:wind contents:tunnel contents:interfer contents:effect contents:been contents:investig contents:basi
+34	Prefix	contents:syst*
+34	Wildcard	contents:sys*t
+34	Fuzzy	contents:systemat~2
+34	MatchAll	*:*
+34	OR-Baseline	contents:have contents:wind contents:tunnel contents:interfer contents:effect contents:been contents:investig contents:systemat contents:basi
+35	Term	contents:react
+35	Phrase	contents:"react gase"
+35	Range-Numeric	len:[62 TO 134]
+35	Range-Lexical	contents:[reac TO react]
+35	Boolean	+contents:react contents:ani contents:paper contents:deal contents:acoust contents:wave contents:propag contents:gase
+35	Prefix	contents:reac*
+35	Wildcard	contents:rea*t
+35	Fuzzy	contents:react~2
+35	MatchAll	*:*
+35	OR-Baseline	contents:ani contents:paper contents:deal contents:acoust contents:wave contents:propag contents:react contents:gase
+36	Term	contents:gaseou
+36	Phrase	contents:"effect ? gaseou"
+36	Range-Numeric	len:[62 TO 134]
+36	Range-Lexical	contents:[gase TO gaseou]
+36	Boolean	+contents:gaseou contents:ha contents:anyon contents:investig contents:relax contents:effect contents:heat contents:transfer contents:suddenli contents:heat contents:wall
+36	Prefix	contents:gase*
+36	Wildcard	contents:gas*u
+36	Fuzzy	contents:gaseou~2
+36	MatchAll	*:*
+36	OR-Baseline	contents:ha contents:anyon contents:investig contents:relax contents:effect contents:gaseou contents:heat contents:transfer contents:suddenli contents:heat contents:wall
+37	Term	contents:ani
+37	Phrase	contents:"predict base"
+37	Range-Numeric	len:[62 TO 134]
+37	Range-Lexical	contents:[ani TO ani]
+37	Boolean	+contents:ani contents:theoret contents:method contents:predict contents:base contents:pressur
+37	Prefix	contents:ani*
+37	Wildcard	contents:ani*
+37	Fuzzy	contents:ani~2
+37	MatchAll	*:*
+37	OR-Baseline	contents:ani contents:theoret contents:method contents:predict contents:base contents:pressur
+38	Term	contents:size
+38	Phrase	contents:"hyperson wake"
+38	Range-Numeric	len:[62 TO 134]
+38	Range-Lexical	contents:[size TO size]
+38	Boolean	+contents:size contents:doe contents:transit contents:hyperson contents:wake contents:depend contents:bodi contents:geometri
+38	Prefix	contents:size*
+38	Wildcard	contents:size*
+38	Fuzzy	contents:size~2
+38	MatchAll	*:*
+38	OR-Baseline	contents:doe contents:transit contents:hyperson contents:wake contents:depend contents:bodi contents:geometri contents:size
+39	Term	contents:detect
+39	Phrase	contents:"can on"
+39	Range-Numeric	len:[62 TO 134]
+39	Range-Lexical	contents:[dete TO detect]
+39	Boolean	+contents:detect contents:how contents:can contents:on contents:transit contents:phenomena contents:boundari contents:layer
+39	Prefix	contents:dete*
+39	Wildcard	contents:det*t
+39	Fuzzy	contents:detect~2
+39	MatchAll	*:*
+39	OR-Baseline	contents:how contents:can contents:on contents:detect contents:transit contents:phenomena contents:boundari contents:layer
+40	Term	contents:detect
+40	Phrase	contents:"phenomena ? hyperson"
+40	Range-Numeric	len:[62 TO 134]
+40	Range-Lexical	contents:[dete TO detect]
+40	Boolean	+contents:detect contents:how contents:can contents:on contents:transit contents:phenomena contents:hyperson contents:wake
+40	Prefix	contents:dete*
+40	Wildcard	contents:det*t
+40	Fuzzy	contents:detect~2
+40	MatchAll	*:*
+40	OR-Baseline	contents:how contents:can contents:on contents:detect contents:transit contents:phenomena contents:hyperson contents:wake
+41	Term	contents:cruciform
+41	Phrase	contents:"behind ? cruciform"
+41	Range-Numeric	len:[62 TO 134]
+41	Range-Lexical	contents:[cruc TO cruciform]
+41	Boolean	+contents:cruciform contents:ha contents:anyon contents:investig contents:develop contents:simpl contents:model contents:vortex contents:wake contents:behind contents:wing
+41	Prefix	contents:cruc*
+41	Wildcard	contents:cru*m
+41	Fuzzy	contents:cruciform~2
+41	MatchAll	*:*
+41	OR-Baseline	contents:ha contents:anyon contents:investig contents:develop contents:simpl contents:model contents:vortex contents:wake contents:behind contents:cruciform contents:wing
+42	Term	contents:round
+42	Phrase	contents:"airfoil ? ? round"
+42	Range-Numeric	len:[62 TO 134]
+42	Range-Lexical	contents:[roun TO round]
+42	Boolean	+contents:round contents:what contents:criterion contents:transon contents:flow contents:around contents:airfoil contents:lead contents:edg contents:validli contents:analyz contents:linear contents:transon contents:flow contents:theori
+42	Prefix	contents:roun*
+42	Wildcard	contents:rou*d
+42	Fuzzy	contents:round~2
+42	MatchAll	*:*
+42	OR-Baseline	contents:what contents:criterion contents:transon contents:flow contents:around contents:airfoil contents:round contents:lead contents:edg contents:validli contents:analyz contents:linear contents:transon contents:flow contents:theori
+43	Term	contents:smooth
+43	Phrase	contents:"thin airfoil"
+43	Range-Numeric	len:[62 TO 134]
+43	Range-Lexical	contents:[smoo TO smooth]
+43	Boolean	+contents:smooth contents:can contents:transon contents:flow contents:around contents:arbitrari contents:thin contents:airfoil contents:analys contents:simpl contents:approxim contents:wai
+43	Prefix	contents:smoo*
+43	Wildcard	contents:smo*h
+43	Fuzzy	contents:smooth~2
+43	MatchAll	*:*
+43	OR-Baseline	contents:can contents:transon contents:flow contents:around contents:arbitrari contents:smooth contents:thin contents:airfoil contents:analys contents:simpl contents:approxim contents:wai
+44	Term	contents:enskog
+44	Phrase	contents:"chapman enskog"
+44	Range-Numeric	len:[62 TO 134]
+44	Range-Lexical	contents:[ensk TO enskog]
+44	Boolean	+contents:enskog contents:what contents:detail contents:rigor contents:kinet contents:theori contents:gase contents:chapman contents:theori
+44	Prefix	contents:ensk*
+44	Wildcard	contents:ens*g
+44	Fuzzy	contents:enskog~2
+44	MatchAll	*:*
+44	OR-Baseline	contents:what contents:detail contents:rigor contents:kinet contents:theori contents:gase contents:chapman contents:enskog contents:theori
+45	Term	contents:mass
+45	Phrase	contents:"viscou interact"
+45	Range-Numeric	len:[62 TO 134]
+45	Range-Lexical	contents:[mass TO mass]
+45	Boolean	+contents:mass contents:ha contents:anyon contents:investig contents:effect contents:surfac contents:transfer contents:hyperson contents:viscou contents:interact
+45	Prefix	contents:mass*
+45	Wildcard	contents:mass*
+45	Fuzzy	contents:mass~2
+45	MatchAll	*:*
+45	OR-Baseline	contents:ha contents:anyon contents:investig contents:effect contents:surfac contents:mass contents:transfer contents:hyperson contents:viscou contents:interact
+46	Term	contents:what
+46	Phrase	contents:"mass transfer"
+46	Range-Numeric	len:[62 TO 134]
+46	Range-Lexical	contents:[what TO what]
+46	Boolean	+contents:what contents:combin contents:effect contents:surfac contents:heat contents:mass contents:transfer contents:hyperson contents:flow
+46	Prefix	contents:what*
+46	Wildcard	contents:what*
+46	Fuzzy	contents:what~2
+46	MatchAll	*:*
+46	OR-Baseline	contents:what contents:combin contents:effect contents:surfac contents:heat contents:mass contents:transfer contents:hyperson contents:flow
+47	Term	contents:what
+47	Phrase	contents:"insul flat"
+47	Range-Numeric	len:[62 TO 134]
+47	Range-Lexical	contents:[what TO what]
+47	Boolean	+contents:what contents:exist contents:solut contents:hyperson contents:viscou contents:interact contents:over contents:insul contents:flat contents:plate
+47	Prefix	contents:what*
+47	Wildcard	contents:what*
+47	Fuzzy	contents:what~2
+47	MatchAll	*:*
+47	OR-Baseline	contents:what contents:exist contents:solut contents:hyperson contents:viscou contents:interact contents:over contents:insul contents:flat contents:plate
+48	Term	contents:what
+48	Phrase	contents:"attach ? transon"
+48	Range-Numeric	len:[62 TO 134]
+48	Range-Lexical	contents:[what TO what]
+48	Boolean	+contents:what contents:control contents:lead contents:edg contents:attach contents:transon contents:speed
+48	Prefix	contents:what*
+48	Wildcard	contents:what*
+48	Fuzzy	contents:what~2
+48	MatchAll	*:*
+48	OR-Baseline	contents:what contents:control contents:lead contents:edg contents:attach contents:transon contents:speed
+49	Term	contents:blasiu
+49	Phrase	contents:"suitabl transform"
+49	Range-Numeric	len:[62 TO 134]
+49	Range-Lexical	contents:[blas TO blasiu]
+49	Boolean	+contents:blasiu contents:can contents:three contents:point contents:boundari contents:valu contents:problem contents:equat contents:integr contents:numer contents:us contents:suitabl contents:transform contents:without contents:iter contents:boundari contents:condit
+49	Prefix	contents:blas*
+49	Wildcard	contents:bla*u
+49	Fuzzy	contents:blasiu~2
+49	MatchAll	*:*
+49	OR-Baseline	contents:can contents:three contents:point contents:boundari contents:valu contents:problem contents:blasiu contents:equat contents:integr contents:numer contents:us contents:suitabl contents:transform contents:without contents:iter contents:boundari contents:condit
+50	Term	contents:rarefact
+50	Phrase	contents:"ga rarefact"
+50	Range-Numeric	len:[62 TO 134]
+50	Range-Lexical	contents:[rare TO rarefact]
+50	Boolean	+contents:rarefact contents:what contents:effect contents:small contents:amount contents:ga contents:characterist contents:boundari contents:layer contents:slender contents:bodi contents:revolut
+50	Prefix	contents:rare*
+50	Wildcard	contents:rar*t
+50	Fuzzy	contents:rarefact~2
+50	MatchAll	*:*
+50	OR-Baseline	contents:what contents:effect contents:small contents:amount contents:ga contents:rarefact contents:characterist contents:boundari contents:layer contents:slender contents:bodi contents:revolut
+51	Term	contents:pertain
+51	Phrase	contents:"transvers curvatur"
+51	Range-Numeric	len:[62 TO 134]
+51	Range-Lexical	contents:[pert TO pertain]
+51	Boolean	+contents:pertain contents:what contents:avail contents:inform contents:boundari contents:layer contents:veri contents:slender contents:bodi contents:revolut contents:continuum contents:flow contents:transvers contents:curvatur contents:effect
+51	Prefix	contents:pert*
+51	Wildcard	contents:per*n
+51	Fuzzy	contents:pertain~2
+51	MatchAll	*:*
+51	OR-Baseline	contents:what contents:avail contents:inform contents:pertain contents:boundari contents:layer contents:veri contents:slender contents:bodi contents:revolut contents:continuum contents:flow contents:transvers contents:curvatur contents:effect
+52	Term	contents:rarefact
+52	Phrase	contents:"avail inform"
+52	Range-Numeric	len:[62 TO 134]
+52	Range-Lexical	contents:[rare TO rarefact]
+52	Boolean	+contents:rarefact contents:what contents:avail contents:inform contents:pertain contents:effect contents:slight contents:boundari contents:layer contents:flow contents:slip contents:effect
+52	Prefix	contents:rare*
+52	Wildcard	contents:rar*t
+52	Fuzzy	contents:rarefact~2
+52	MatchAll	*:*
+52	OR-Baseline	contents:what contents:avail contents:inform contents:pertain contents:effect contents:slight contents:rarefact contents:boundari contents:layer contents:flow contents:slip contents:effect
+53	Term	contents:rarefi
+53	Phrase	contents:"partial ioniz"
+53	Range-Numeric	len:[62 TO 134]
+53	Range-Lexical	contents:[rare TO rarefi]
+53	Boolean	+contents:rarefi contents:what contents:investig contents:have contents:been contents:made contents:flow contents:field contents:about contents:bodi contents:move contents:through contents:partial contents:ioniz contents:ga contents:presenc contents:magnet contents:field
+53	Prefix	contents:rare*
+53	Wildcard	contents:rar*i
+53	Fuzzy	contents:rarefi~2
+53	MatchAll	*:*
+53	OR-Baseline	contents:what contents:investig contents:have contents:been contents:made contents:flow contents:field contents:about contents:bodi contents:move contents:through contents:rarefi contents:partial contents:ioniz contents:ga contents:presenc contents:magnet contents:field
+54	Term	contents:how
+54	Phrase	contents:"downstream ? ? mass"
+54	Range-Numeric	len:[62 TO 134]
+54	Range-Lexical	contents:[how TO how]
+54	Boolean	+contents:how contents:heat contents:transfer contents:downstream contents:mass contents:transfer contents:region contents:effect contents:mass contents:transfer contents:nose contents:blunt contents:cone
+54	Prefix	contents:how*
+54	Wildcard	contents:how*
+54	Fuzzy	contents:how~2
+54	MatchAll	*:*
+54	OR-Baseline	contents:how contents:heat contents:transfer contents:downstream contents:mass contents:transfer contents:region contents:effect contents:mass contents:transfer contents:nose contents:blunt contents:cone
+55	Term	contents:what
+55	Phrase	contents:"avail inform"
+55	Range-Numeric	len:[62 TO 134]
+55	Range-Lexical	contents:[what TO what]
+55	Boolean	+contents:what contents:extent contents:can contents:avail contents:inform contents:incompress contents:boundari contents:layer contents:appli contents:problem contents:involv contents:compress contents:boundari contents:layer
+55	Prefix	contents:what*
+55	Wildcard	contents:what*
+55	Fuzzy	contents:what~2
+55	MatchAll	*:*
+55	OR-Baseline	contents:what contents:extent contents:can contents:avail contents:inform contents:incompress contents:boundari contents:layer contents:appli contents:problem contents:involv contents:compress contents:boundari contents:layer
+56	Term	contents:readili
+56	Phrase	contents:"can readili"
+56	Range-Numeric	len:[62 TO 134]
+56	Range-Lexical	contents:[read TO readili]
+56	Boolean	+contents:readili contents:what contents:extent contents:can contents:avail contents:steadi contents:state contents:aerodynam contents:data contents:util contents:predict contents:lift contents:surfac contents:flutter contents:characterist
+56	Prefix	contents:read*
+56	Wildcard	contents:rea*i
+56	Fuzzy	contents:readili~2
+56	MatchAll	*:*
+56	OR-Baseline	contents:what contents:extent contents:can contents:readili contents:avail contents:steadi contents:state contents:aerodynam contents:data contents:util contents:predict contents:lift contents:surfac contents:flutter contents:characterist
+57	Term	contents:what
+57	Phrase	contents:"flutter mechan"
+57	Range-Numeric	len:[62 TO 134]
+57	Range-Lexical	contents:[what TO what]
+57	Boolean	+contents:what contents:signific contents:steadi contents:non contents:steadi contents:flow contents:characterist contents:which contents:affect contents:flutter contents:mechan
+57	Prefix	contents:what*
+57	Wildcard	contents:what*
+57	Fuzzy	contents:what~2
+57	MatchAll	*:*
+57	OR-Baseline	contents:what contents:signific contents:steadi contents:non contents:steadi contents:flow contents:characterist contents:which contents:affect contents:flutter contents:mechan
+58	Term	contents:convect
+58	Phrase	contents:"forc convect"
+58	Range-Numeric	len:[62 TO 134]
+58	Range-Lexical	contents:[conv TO convect]
+58	Boolean	+contents:convect contents:possibl contents:determin contents:rate contents:forc contents:heat contents:transfer contents:from contents:heat contents:cylind contents:non contents:circular contents:cross contents:section contents:fluid contents:flow contents:be contents:along contents:gener
+58	Prefix	contents:conv*
+58	Wildcard	contents:con*t
+58	Fuzzy	contents:convect~2
+58	MatchAll	*:*
+58	OR-Baseline	contents:possibl contents:determin contents:rate contents:forc contents:convect contents:heat contents:transfer contents:from contents:heat contents:cylind contents:non contents:circular contents:cross contents:section contents:fluid contents:flow contents:be contents:along contents:gener
+59	Term	contents:how
+59	Phrase	contents:"non circular"
+59	Range-Numeric	len:[62 TO 134]
+59	Range-Lexical	contents:[how TO how]
+59	Boolean	+contents:how contents:much contents:known contents:about contents:boundari contents:layer contents:flow contents:along contents:non contents:circular contents:cylind
+59	Prefix	contents:how*
+59	Wildcard	contents:how*
+59	Fuzzy	contents:how~2
+59	MatchAll	*:*
+59	OR-Baseline	contents:how contents:much contents:known contents:about contents:boundari contents:layer contents:flow contents:along contents:non contents:circular contents:cylind
+60	Term	contents:blasiu
+60	Phrase	contents:"blasiu problem"
+60	Range-Numeric	len:[62 TO 134]
+60	Range-Lexical	contents:[blas TO blasiu]
+60	Boolean	+contents:blasiu contents:ani contents:simpl contents:practic contents:method contents:numer contents:integr contents:mix contents:problem contents:i. contents:problem contents:three contents:point contents:boundari contents:condit
+60	Prefix	contents:blas*
+60	Wildcard	contents:bla*u
+60	Fuzzy	contents:blasiu~2
+60	MatchAll	*:*
+60	OR-Baseline	contents:ani contents:simpl contents:practic contents:method contents:numer contents:integr contents:mix contents:problem contents:i. contents:blasiu contents:problem contents:three contents:point contents:boundari contents:condit
+61	Term	contents:yaw
+61	Phrase	contents:"doe ? exist"
+61	Range-Numeric	len:[62 TO 134]
+61	Range-Lexical	contents:[yaw TO yaw]
+61	Boolean	+contents:yaw contents:doe contents:exist contents:close contents:form contents:express contents:local contents:heat contents:transfer contents:around contents:cylind
+61	Prefix	contents:yaw*
+61	Wildcard	contents:yaw*
+61	Fuzzy	contents:yaw~2
+61	MatchAll	*:*
+61	OR-Baseline	contents:doe contents:exist contents:close contents:form contents:express contents:local contents:heat contents:transfer contents:around contents:yaw contents:cylind
+62	Term	contents:just
+62	Phrase	contents:"just outsid"
+62	Range-Numeric	len:[62 TO 134]
+62	Range-Lexical	contents:[just TO just]
+62	Boolean	+contents:just contents:how contents:far contents:around contents:cylind contents:under contents:what contents:condit contents:flow contents:ani contents:veloc contents:outsid contents:boundari contents:layer contents:linear contents:function contents:distanc contents:around contents:cylind
+62	Prefix	contents:just*
+62	Wildcard	contents:just*
+62	Fuzzy	contents:just~2
+62	MatchAll	*:*
+62	OR-Baseline	contents:how contents:far contents:around contents:cylind contents:under contents:what contents:condit contents:flow contents:ani contents:veloc contents:just contents:outsid contents:boundari contents:layer contents:linear contents:function contents:distanc contents:around contents:cylind
+63	Term	contents:i
+63	Phrase	contents:"pressur data"
+63	Range-Numeric	len:[62 TO 134]
+63	Range-Lexical	contents:[i TO i]
+63	Boolean	+contents:i contents:where contents:can contents:find contents:pressur contents:data contents:surfac contents:swept contents:cylind
+63	Prefix	contents:i*
+63	Wildcard	contents:i*
+63	Fuzzy	contents:i~2
+63	MatchAll	*:*
+63	OR-Baseline	contents:where contents:can contents:i contents:find contents:pressur contents:data contents:surfac contents:swept contents:cylind
+64	Term	contents:justif
+64	Phrase	contents:"static deflect"
+64	Range-Numeric	len:[62 TO 134]
+64	Range-Lexical	contents:[just TO justif]
+64	Boolean	+contents:justif contents:can't contents:static contents:deflect contents:shape contents:us contents:predict contents:flutter contents:place contents:vibrat contents:shape contents:so contents:can contents:we contents:provid contents:mean contents:exampl
+64	Prefix	contents:just*
+64	Wildcard	contents:jus*f
+64	Fuzzy	contents:justif~2
+64	MatchAll	*:*
+64	OR-Baseline	contents:can't contents:static contents:deflect contents:shape contents:us contents:predict contents:flutter contents:place contents:vibrat contents:shape contents:so contents:can contents:we contents:provid contents:justif contents:mean contents:exampl
+65	Term	contents:doe
+65	Phrase	contents:"plate ? ? shear"
+65	Range-Numeric	len:[62 TO 134]
+65	Range-Lexical	contents:[doe TO doe]
+65	Boolean	+contents:doe contents:boundari contents:layer contents:flat contents:plate contents:shear contents:flow contents:induc contents:pressur contents:gradient
+65	Prefix	contents:doe*
+65	Wildcard	contents:doe*
+65	Fuzzy	contents:doe~2
+65	MatchAll	*:*
+65	OR-Baseline	contents:doe contents:boundari contents:layer contents:flat contents:plate contents:shear contents:flow contents:induc contents:pressur contents:gradient
+66	Term	contents:match
+66	Phrase	contents:"inner ? outer"
+66	Range-Numeric	len:[62 TO 134]
+66	Range-Lexical	contents:[matc TO match]
+66	Boolean	+contents:match contents:can contents:procedur contents:inner contents:outer contents:solut contents:viscou contents:flow contents:problem contents:appli contents:when contents:main contents:stream contents:shear contents:flow
+66	Prefix	contents:matc*
+66	Wildcard	contents:mat*h
+66	Fuzzy	contents:match~2
+66	MatchAll	*:*
+66	OR-Baseline	contents:can contents:procedur contents:match contents:inner contents:outer contents:solut contents:viscou contents:flow contents:problem contents:appli contents:when contents:main contents:stream contents:shear contents:flow
+67	Term	contents:expans
+67	Phrase	contents:"seri expans"
+67	Range-Numeric	len:[62 TO 134]
+67	Range-Lexical	contents:[expa TO expans]
+67	Boolean	+contents:expans contents:can contents:seri contents:found contents:boundari contents:layer contents:flat contents:plate contents:shear contents:flow
+67	Prefix	contents:expa*
+67	Wildcard	contents:exp*s
+67	Fuzzy	contents:expans~2
+67	MatchAll	*:*
+67	OR-Baseline	contents:can contents:seri contents:expans contents:found contents:boundari contents:layer contents:flat contents:plate contents:shear contents:flow
+68	Term	contents:isotherm
+68	Phrase	contents:"isotherm transpir"
+68	Range-Numeric	len:[62 TO 134]
+68	Range-Lexical	contents:[isot TO isotherm]
+68	Boolean	+contents:isotherm contents:what contents:possibl contents:techniqu contents:avail contents:comput contents:inject contents:distribut contents:correspond contents:transpir contents:cool contents:hemispher
+68	Prefix	contents:isot*
+68	Wildcard	contents:iso*m
+68	Fuzzy	contents:isotherm~2
+68	MatchAll	*:*
+68	OR-Baseline	contents:what contents:possibl contents:techniqu contents:avail contents:comput contents:inject contents:distribut contents:correspond contents:isotherm contents:transpir contents:cool contents:hemispher
+69	Term	contents:what
+69	Phrase	contents:"what ? known"
+69	Range-Numeric	len:[62 TO 134]
+69	Range-Lexical	contents:[what TO what]
+69	Boolean	+contents:what contents:known contents:regard contents:asymptot contents:solut contents:exact contents:boundari contents:layer contents:equat
+69	Prefix	contents:what*
+69	Wildcard	contents:what*
+69	Fuzzy	contents:what~2
+69	MatchAll	*:*
+69	OR-Baseline	contents:what contents:known contents:regard contents:asymptot contents:solut contents:exact contents:boundari contents:layer contents:equat
+70	Term	contents:previou
+70	Phrase	contents:"previou solut"
+70	Range-Numeric	len:[62 TO 134]
+70	Range-Lexical	contents:[prev TO previou]
+70	Boolean	+contents:previou contents:solut contents:boundari contents:layer contents:similar contents:equat
+70	Prefix	contents:prev*
+70	Wildcard	contents:pre*u
+70	Fuzzy	contents:previou~2
+70	MatchAll	*:*
+70	OR-Baseline	contents:previou contents:solut contents:boundari contents:layer contents:similar contents:equat
+71	Term	contents:interact
+71	Phrase	contents:"viscou interact"
+71	Range-Numeric	len:[62 TO 134]
+71	Range-Lexical	contents:[inte TO interact]
+71	Boolean	+contents:interact contents:experiment contents:result contents:hyperson contents:viscou
+71	Prefix	contents:inte*
+71	Wildcard	contents:int*t
+71	Fuzzy	contents:interact~2
+71	MatchAll	*:*
+71	OR-Baseline	contents:experiment contents:result contents:hyperson contents:viscou contents:interact
+72	Term	contents:done
+72	Phrase	contents:"been done"
+72	Range-Numeric	len:[62 TO 134]
+72	Range-Lexical	contents:[done TO done]
+72	Boolean	+contents:done contents:what contents:ha contents:been contents:about contents:viscou contents:interact contents:rel contents:low contents:reynold contents:number contents:flow contents:particularli contents:high contents:mach contents:number
+72	Prefix	contents:done*
+72	Wildcard	contents:done*
+72	Fuzzy	contents:done~2
+72	MatchAll	*:*
+72	OR-Baseline	contents:what contents:ha contents:been contents:done contents:about contents:viscou contents:interact contents:rel contents:low contents:reynold contents:number contents:flow contents:particularli contents:high contents:mach contents:number
+73	Term	contents:similitud
+73	Phrase	contents:"similitud law"
+73	Range-Numeric	len:[62 TO 134]
+73	Range-Lexical	contents:[simi TO similitud]
+73	Boolean	+contents:similitud contents:what contents:role contents:doe contents:effect contents:chemic contents:reaction contents:particularli contents:when contents:out contents:equilibrium contents:plai contents:law contents:govern contents:hyperson contents:flow contents:over contents:slender contents:aerodynam contents:bodi
+73	Prefix	contents:simi*
+73	Wildcard	contents:sim*d
+73	Fuzzy	contents:similitud~2
+73	MatchAll	*:*
+73	OR-Baseline	contents:what contents:role contents:doe contents:effect contents:chemic contents:reaction contents:particularli contents:when contents:out contents:equilibrium contents:plai contents:similitud contents:law contents:govern contents:hyperson contents:flow contents:over contents:slender contents:aerodynam contents:bodi
+74	Term	contents:realiz
+74	Phrase	contents:"simul ? high"
+74	Range-Numeric	len:[62 TO 134]
+74	Range-Lexical	contents:[real TO realiz]
+74	Boolean	+contents:realiz contents:how contents:signific contents:possibl contents:pressur contents:dissoci contents:free contents:stream contents:respect contents:hyperson contents:simul contents:high contents:enthalpi contents:wind contents:tunnel
+74	Prefix	contents:real*
+74	Wildcard	contents:rea*z
+74	Fuzzy	contents:realiz~2
+74	MatchAll	*:*
+74	OR-Baseline	contents:how contents:signific contents:possibl contents:pressur contents:dissoci contents:free contents:stream contents:respect contents:realiz contents:hyperson contents:simul contents:high contents:enthalpi contents:wind contents:tunnel
+75	Term	contents:among
+75	Phrase	contents:"primarili from"
+75	Range-Numeric	len:[62 TO 134]
+75	Range-Lexical	contents:[amon TO among]
+75	Boolean	+contents:among contents:do contents:discrep contents:current contents:analys contents:vortic contents:effect contents:stagnat contents:point contents:heat contents:transfer contents:result contents:primarili contents:from contents:differ contents:viscos contents:temperatur contents:law contents:assum
+75	Prefix	contents:amon*
+75	Wildcard	contents:amo*g
+75	Fuzzy	contents:among~2
+75	MatchAll	*:*
+75	OR-Baseline	contents:do contents:discrep contents:among contents:current contents:analys contents:vortic contents:effect contents:stagnat contents:point contents:heat contents:transfer contents:result contents:primarili contents:from contents:differ contents:viscos contents:temperatur contents:law contents:assum
+76	Term	contents:how
+76	Phrase	contents:"how far"
+76	Range-Numeric	len:[62 TO 134]
+76	Range-Lexical	contents:[how TO how]
+76	Boolean	+contents:how contents:far contents:can contents:on contents:trust contents:linear contents:viscos contents:temperatur contents:solut contents:assum contents:some contents:analys contents:hyperson contents:shock contents:layer contents:low contents:reynold contents:number
+76	Prefix	contents:how*
+76	Wildcard	contents:how*
+76	Fuzzy	contents:how~2
+76	MatchAll	*:*
+76	OR-Baseline	contents:how contents:far contents:can contents:on contents:trust contents:linear contents:viscos contents:temperatur contents:solut contents:assum contents:some contents:analys contents:hyperson contents:shock contents:layer contents:low contents:reynold contents:number
+77	Term	contents:merg
+77	Phrase	contents:"merg layer"
+77	Range-Numeric	len:[62 TO 134]
+77	Range-Lexical	contents:[merg TO merg]
+77	Boolean	+contents:merg contents:how contents:close contents:comparison contents:shock contents:layer contents:theori contents:exist contents:experi contents:low contents:reynold contents:number contents:layer contents:regim
+77	Prefix	contents:merg*
+77	Wildcard	contents:merg*
+77	Fuzzy	contents:merg~2
+77	MatchAll	*:*
+77	OR-Baseline	contents:how contents:close contents:comparison contents:shock contents:layer contents:theori contents:exist contents:experi contents:low contents:reynold contents:number contents:merg contents:layer contents:regim
+78	Term	contents:kink
+78	Phrase	contents:"multi stage"
+78	Range-Numeric	len:[62 TO 134]
+78	Range-Lexical	contents:[kink TO kink]
+78	Boolean	+contents:kink contents:ha contents:anyon contents:explain contents:surg contents:line contents:multi contents:stage contents:axial contents:compressor
+78	Prefix	contents:kink*
+78	Wildcard	contents:kink*
+78	Fuzzy	contents:kink~2
+78	MatchAll	*:*
+78	OR-Baseline	contents:ha contents:anyon contents:explain contents:kink contents:surg contents:line contents:multi contents:stage contents:axial contents:compressor
+79	Term	contents:work
+79	Phrase	contents:"theoret work"
+79	Range-Numeric	len:[62 TO 134]
+79	Range-Lexical	contents:[work TO work]
+79	Boolean	+contents:work contents:have contents:ani contents:aerodynam contents:deriv contents:been contents:measur contents:hyperson contents:mach contents:number contents:comparison contents:been contents:made contents:theoret
+79	Prefix	contents:work*
+79	Wildcard	contents:work*
+79	Fuzzy	contents:work~2
+79	MatchAll	*:*
+79	OR-Baseline	contents:have contents:ani contents:aerodynam contents:deriv contents:been contents:measur contents:hyperson contents:mach contents:number contents:comparison contents:been contents:made contents:theoret contents:work
+80	Term	contents:adopt
+80	Phrase	contents:"short run"
+80	Range-Numeric	len:[62 TO 134]
+80	Range-Lexical	contents:[adop TO adopt]
+80	Boolean	+contents:adopt contents:method contents:measur contents:aerodynam contents:deriv contents:avail contents:which contents:could contents:us contents:short contents:run contents:time contents:facil
+80	Prefix	contents:adop*
+80	Wildcard	contents:ado*t
+80	Fuzzy	contents:adopt~2
+80	MatchAll	*:*
+80	OR-Baseline	contents:method contents:measur contents:aerodynam contents:deriv contents:avail contents:which contents:could contents:adopt contents:us contents:short contents:run contents:time contents:facil
+81	Term	contents:centr
+81	Phrase	contents:"dimension aerofoil"
+81	Range-Numeric	len:[62 TO 134]
+81	Range-Lexical	contents:[cent TO centr]
+81	Boolean	+contents:centr contents:what contents:wind contents:tunnel contents:correct contents:two contents:dimension contents:aerofoil contents:mount contents:off contents:tunnel
+81	Prefix	contents:cent*
+81	Wildcard	contents:cen*r
+81	Fuzzy	contents:centr~2
+81	MatchAll	*:*
+81	OR-Baseline	contents:what contents:wind contents:tunnel contents:correct contents:two contents:dimension contents:aerofoil contents:mount contents:off contents:centr contents:tunnel
+82	Term	contents:kuchemann
+82	Phrase	contents:"swept wing"
+82	Range-Numeric	len:[62 TO 134]
+82	Range-Lexical	contents:[kuch TO kuchemann]
+82	Boolean	+contents:kuchemann contents:how contents:do contents:multhopp contents:method contents:calcul contents:lift contents:distribut contents:swept contents:wing contents:subson contents:flow contents:compar contents:each contents:other contents:experi
+82	Prefix	contents:kuch*
+82	Wildcard	contents:kuc*n
+82	Fuzzy	contents:kuchemann~2
+82	MatchAll	*:*
+82	OR-Baseline	contents:how contents:do contents:kuchemann contents:multhopp contents:method contents:calcul contents:lift contents:distribut contents:swept contents:wing contents:subson contents:flow contents:compar contents:each contents:other contents:experi
+83	Term	contents:what
+83	Phrase	contents:"quasi conic"
+83	Range-Numeric	len:[62 TO 134]
+83	Range-Lexical	contents:[what TO what]
+83	Boolean	+contents:what contents:present contents:state contents:theori contents:quasi contents:conic contents:flow
+83	Prefix	contents:what*
+83	Wildcard	contents:what*
+83	Fuzzy	contents:what~2
+83	MatchAll	*:*
+83	OR-Baseline	contents:what contents:present contents:state contents:theori contents:quasi contents:conic contents:flow
+84	Term	contents:refer
+84	Phrase	contents:"accur estim"
+84	Range-Numeric	len:[62 TO 134]
+84	Range-Lexical	contents:[refe TO refer]
+84	Boolean	+contents:refer contents:method contents:avail contents:accur contents:estim contents:aerodynam contents:heat contents:transfer contents:conic contents:bodi contents:both contents:laminar contents:turbul contents:flow
+84	Prefix	contents:refe*
+84	Wildcard	contents:ref*r
+84	Fuzzy	contents:refer~2
+84	MatchAll	*:*
+84	OR-Baseline	contents:refer contents:method contents:avail contents:accur contents:estim contents:aerodynam contents:heat contents:transfer contents:conic contents:bodi contents:both contents:laminar contents:turbul contents:flow
+85	Term	contents:serious
+85	Phrase	contents:"natur transit"
+85	Range-Numeric	len:[62 TO 134]
+85	Range-Lexical	contents:[seri TO serious]
+85	Boolean	+contents:serious contents:what contents:paramet contents:can contents:influenc contents:natur contents:transit contents:from contents:laminar contents:turbul contents:flow contents:model contents:wind contents:tunnel
+85	Prefix	contents:seri*
+85	Wildcard	contents:ser*s
+85	Fuzzy	contents:serious~2
+85	MatchAll	*:*
+85	OR-Baseline	contents:what contents:paramet contents:can contents:serious contents:influenc contents:natur contents:transit contents:from contents:laminar contents:turbul contents:flow contents:model contents:wind contents:tunnel
+86	Term	contents:sting
+86	Phrase	contents:"sting mount"
+86	Range-Numeric	len:[62 TO 134]
+86	Range-Lexical	contents:[stin TO sting]
+86	Boolean	+contents:sting contents:can contents:satisfactori contents:experiment contents:techniqu contents:develop contents:measur contents:oscillatori contents:deriv contents:slender contents:mount contents:model contents:superson contents:wind contents:tunnel
+86	Prefix	contents:stin*
+86	Wildcard	contents:sti*g
+86	Fuzzy	contents:sting~2
+86	MatchAll	*:*
+86	OR-Baseline	contents:can contents:satisfactori contents:experiment contents:techniqu contents:develop contents:measur contents:oscillatori contents:deriv contents:slender contents:sting contents:mount contents:model contents:superson contents:wind contents:tunnel
+87	Term	contents:what
+87	Phrase	contents:"modifi ? basic"
+87	Range-Numeric	len:[62 TO 134]
+87	Range-Lexical	contents:[what TO what]
+87	Boolean	+contents:what contents:effect contents:ha contents:boundari contents:layer contents:modifi contents:basic contents:inviscid contents:flow contents:behind contents:shock contents:neglect contents:effect contents:lead contents:edg contents:corner
+87	Prefix	contents:what*
+87	Wildcard	contents:what*
+87	Fuzzy	contents:what~2
+87	MatchAll	*:*
+87	OR-Baseline	contents:what contents:effect contents:ha contents:boundari contents:layer contents:modifi contents:basic contents:inviscid contents:flow contents:behind contents:shock contents:neglect contents:effect contents:lead contents:edg contents:corner
+88	Term	contents:contract
+88	Phrase	contents:"orbit contract"
+88	Range-Numeric	len:[62 TO 134]
+88	Range-Lexical	contents:[cont TO contract]
+88	Boolean	+contents:contract contents:how contents:doe contents:satellit contents:orbit contents:under contents:action contents:air contents:drag contents:atmospher contents:which contents:scale contents:height contents:vari contents:altitud
+88	Prefix	contents:cont*
+88	Wildcard	contents:con*t
+88	Fuzzy	contents:contract~2
+88	MatchAll	*:*
+88	OR-Baseline	contents:how contents:doe contents:satellit contents:orbit contents:contract contents:under contents:action contents:air contents:drag contents:atmospher contents:which contents:scale contents:height contents:vari contents:altitud
+89	Term	contents:sweptback
+89	Phrase	contents:"taper sweptback"
+89	Range-Numeric	len:[62 TO 134]
+89	Range-Lexical	contents:[swep TO sweptback]
+89	Boolean	+contents:sweptback contents:how contents:flow contents:transon contents:speed contents:about contents:delta contents:wing contents:differ contents:from contents:close contents:relat contents:taper contents:wing
+89	Prefix	contents:swep*
+89	Wildcard	contents:swe*k
+89	Fuzzy	contents:sweptback~2
+89	MatchAll	*:*
+89	OR-Baseline	contents:how contents:flow contents:transon contents:speed contents:about contents:delta contents:wing contents:differ contents:from contents:close contents:relat contents:taper contents:sweptback contents:wing
+90	Term	contents:induc
+90	Phrase	contents:"shock induc"
+90	Range-Numeric	len:[62 TO 134]
+90	Range-Lexical	contents:[indu TO induc]
+90	Boolean	+contents:induc contents:recent contents:data contents:shock contents:boundari contents:layer contents:separ
+90	Prefix	contents:indu*
+90	Wildcard	contents:ind*c
+90	Fuzzy	contents:induc~2
+90	MatchAll	*:*
+90	OR-Baseline	contents:recent contents:data contents:shock contents:induc contents:boundari contents:layer contents:separ
+91	Term	contents:what
+91	Phrase	contents:"transon speed"
+91	Range-Numeric	len:[62 TO 134]
+91	Range-Lexical	contents:[what TO what]
+91	Boolean	+contents:what contents:interfer contents:effect contents:like contents:transon contents:speed
+91	Prefix	contents:what*
+91	Wildcard	contents:what*
+91	Fuzzy	contents:what~2
+91	MatchAll	*:*
+91	OR-Baseline	contents:what contents:interfer contents:effect contents:like contents:transon contents:speed
+92	Term	contents:accomplish
+92	Phrase	contents:"boom intens"
+92	Range-Numeric	len:[62 TO 134]
+92	Range-Lexical	contents:[acco TO accomplish]
+92	Boolean	+contents:accomplish contents:given contents:complet contents:freedom contents:design contents:airplan contents:what contents:procedur contents:would contents:us contents:order contents:minim contents:sonic contents:boom contents:intens contents:limit contents:degre contents:minim contents:can
+92	Prefix	contents:acco*
+92	Wildcard	contents:acc*h
+92	Fuzzy	contents:accomplish~2
+92	MatchAll	*:*
+92	OR-Baseline	contents:given contents:complet contents:freedom contents:design contents:airplan contents:what contents:procedur contents:would contents:us contents:order contents:minim contents:sonic contents:boom contents:intens contents:limit contents:degre contents:minim contents:can contents:accomplish
+93	Term	contents:methan
+93	Phrase	contents:"methan air"
+93	Range-Numeric	len:[62 TO 134]
+93	Range-Lexical	contents:[meth TO methan]
+93	Boolean	+contents:methan contents:can contents:air contents:combust contents:product contents:us contents:hyperson contents:test contents:medium contents:predict contents:within contents:experiment contents:accuraci contents:result contents:obtain contents:air
+93	Prefix	contents:meth*
+93	Wildcard	contents:met*n
+93	Fuzzy	contents:methan~2
+93	MatchAll	*:*
+93	OR-Baseline	contents:can contents:methan contents:air contents:combust contents:product contents:us contents:hyperson contents:test contents:medium contents:predict contents:within contents:experiment contents:accuraci contents:result contents:obtain contents:air
+94	Term	contents:what
+94	Phrase	contents:"rate ? ? stagnat"
+94	Range-Numeric	len:[62 TO 134]
+94	Range-Lexical	contents:[what TO what]
+94	Boolean	+contents:what contents:theoret contents:heat contents:transfer contents:rate contents:stagnat contents:point contents:blunt contents:bodi
+94	Prefix	contents:what*
+94	Wildcard	contents:what*
+94	Fuzzy	contents:what~2
+94	MatchAll	*:*
+94	OR-Baseline	contents:what contents:theoret contents:heat contents:transfer contents:rate contents:stagnat contents:point contents:blunt contents:bodi
+95	Term	contents:what
+95	Phrase	contents:"around ? hemispher"
+95	Range-Numeric	len:[62 TO 134]
+95	Range-Lexical	contents:[what TO what]
+95	Boolean	+contents:what contents:theoret contents:heat contents:transfer contents:distribut contents:around contents:hemispher
+95	Prefix	contents:what*
+95	Wildcard	contents:what*
+95	Fuzzy	contents:what~2
+95	MatchAll	*:*
+95	OR-Baseline	contents:what contents:theoret contents:heat contents:transfer contents:distribut contents:around contents:hemispher
+96	Term	contents:unsteadi
+96	Phrase	contents:"unsteadi lift"
+96	Range-Numeric	len:[62 TO 134]
+96	Range-Lexical	contents:[unst TO unsteadi]
+96	Boolean	+contents:unsteadi contents:ha contents:anyon contents:investig contents:lift contents:distribut contents:finit contents:wing contents:subson contents:flow
+96	Prefix	contents:unst*
+96	Wildcard	contents:uns*i
+96	Fuzzy	contents:unsteadi~2
+96	MatchAll	*:*
+96	OR-Baseline	contents:ha contents:anyon contents:investig contents:unsteadi contents:lift contents:distribut contents:finit contents:wing contents:subson contents:flow
+97	Term	contents:gust
+97	Phrase	contents:"dynam respons"
+97	Range-Numeric	len:[62 TO 134]
+97	Range-Lexical	contents:[gust TO gust]
+97	Boolean	+contents:gust contents:what contents:inform contents:avail contents:dynam contents:respons contents:airplan contents:blast contents:subson contents:regim
+97	Prefix	contents:gust*
+97	Wildcard	contents:gust*
+97	Fuzzy	contents:gust~2
+97	MatchAll	*:*
+97	OR-Baseline	contents:what contents:inform contents:avail contents:dynam contents:respons contents:airplan contents:gust contents:blast contents:subson contents:regim
+98	Term	contents:apex
+98	Phrase	contents:"edg flap"
+98	Range-Numeric	len:[62 TO 134]
+98	Range-Lexical	contents:[apex TO apex]
+98	Boolean	+contents:apex contents:forward contents:locat contents:control contents:effect contents:low contents:subson contents:speed contents:how contents:do contents:compar contents:convent contents:trail contents:edg contents:flap
+98	Prefix	contents:apex*
+98	Wildcard	contents:apex*
+98	Fuzzy	contents:apex~2
+98	MatchAll	*:*
+98	OR-Baseline	contents:forward contents:apex contents:locat contents:control contents:effect contents:low contents:subson contents:speed contents:how contents:do contents:compar contents:convent contents:trail contents:edg contents:flap
+99	Term	contents:uncontrol
+99	Phrase	contents:"tumbl ? ? enter"
+99	Range-Numeric	len:[62 TO 134]
+99	Range-Lexical	contents:[unco TO uncontrol]
+99	Boolean	+contents:uncontrol contents:given contents:vehicl contents:tumbl contents:enter contents:atmospher contents:possibl contents:predict contents:when contents:how contents:stop contents:tumbl contents:it contents:subsequ contents:motion
+99	Prefix	contents:unco*
+99	Wildcard	contents:unc*l
+99	Fuzzy	contents:uncontrol~2
+99	MatchAll	*:*
+99	OR-Baseline	contents:given contents:uncontrol contents:vehicl contents:tumbl contents:enter contents:atmospher contents:possibl contents:predict contents:when contents:how contents:stop contents:tumbl contents:it contents:subsequ contents:motion
+100	Term	contents:what
+100	Phrase	contents:"initi imperfect"
+100	Range-Numeric	len:[62 TO 134]
+100	Range-Lexical	contents:[what TO what]
+100	Boolean	+contents:what contents:effect contents:initi contents:imperfect contents:elast contents:buckl contents:cylindr contents:shell contents:under contents:axial contents:compress
+100	Prefix	contents:what*
+100	Wildcard	contents:what*
+100	Fuzzy	contents:what~2
+100	MatchAll	*:*
+100	OR-Baseline	contents:what contents:effect contents:initi contents:imperfect contents:elast contents:buckl contents:cylindr contents:shell contents:under contents:axial contents:compress
+101	Term	contents:why
+101	Phrase	contents:"strain relationship"
+101	Range-Numeric	len:[62 TO 134]
+101	Range-Lexical	contents:[why TO why]
+101	Boolean	+contents:why contents:doe contents:increment contents:theori contents:deform contents:theori contents:plastic contents:stress contents:strain contents:relationship contents:differ contents:greatli contents:when contents:appli contents:stabil contents:problem
+101	Prefix	contents:why*
+101	Wildcard	contents:why*
+101	Fuzzy	contents:why~2
+101	MatchAll	*:*
+101	OR-Baseline	contents:why contents:doe contents:increment contents:theori contents:deform contents:theori contents:plastic contents:stress contents:strain contents:relationship contents:differ contents:greatli contents:when contents:appli contents:stabil contents:problem
+102	Term	contents:basic
+102	Phrase	contents:"dynam characterist"
+102	Range-Numeric	len:[62 TO 134]
+102	Range-Lexical	contents:[basi TO basic]
+102	Boolean	+contents:basic contents:dynam contents:characterist contents:structur contents:continu contents:over contents:mani contents:span
+102	Prefix	contents:basi*
+102	Wildcard	contents:bas*c
+102	Fuzzy	contents:basic~2
+102	MatchAll	*:*
+102	OR-Baseline	contents:basic contents:dynam contents:characterist contents:structur contents:continu contents:over contents:mani contents:span
+103	Term	contents:sandwich
+103	Phrase	contents:"sandwich sphere"
+103	Range-Numeric	len:[62 TO 134]
+103	Range-Lexical	contents:[sand TO sandwich]
+103	Boolean	+contents:sandwich contents:inform contents:buckl contents:sphere contents:avail
+103	Prefix	contents:sand*
+103	Wildcard	contents:san*h
+103	Fuzzy	contents:sandwich~2
+103	MatchAll	*:*
+103	OR-Baseline	contents:inform contents:buckl contents:sandwich contents:sphere contents:avail
+104	Term	contents:inelast
+104	Phrase	contents:"non uniform"
+104	Range-Numeric	len:[62 TO 134]
+104	Range-Lexical	contents:[inel TO inelast]
+104	Boolean	+contents:inelast contents:can contents:load contents:deform contents:characterist contents:beam contents:obtain contents:materi contents:be contents:non contents:uniform contents:temperatur contents:be contents:present
+104	Prefix	contents:inel*
+104	Wildcard	contents:ine*t
+104	Fuzzy	contents:inelast~2
+104	MatchAll	*:*
+104	OR-Baseline	contents:can contents:load contents:deform contents:characterist contents:beam contents:obtain contents:materi contents:be contents:inelast contents:non contents:uniform contents:temperatur contents:be contents:present
+105	Term	contents:breath
+105	Phrase	contents:"column ? ? breath"
+105	Range-Numeric	len:[62 TO 134]
+105	Range-Lexical	contents:[brea TO breath]
+105	Boolean	+contents:breath contents:what contents:effect contents:intern contents:liquid contents:column contents:vibrat contents:cylindr contents:shell
+105	Prefix	contents:brea*
+105	Wildcard	contents:bre*h
+105	Fuzzy	contents:breath~2
+105	MatchAll	*:*
+105	OR-Baseline	contents:what contents:effect contents:intern contents:liquid contents:column contents:breath contents:vibrat contents:cylindr contents:shell
+106	Term	contents:vibrat
+106	Phrase	contents:"shell vibrat"
+106	Range-Numeric	len:[62 TO 134]
+106	Range-Lexical	contents:[vibr TO vibrat]
+106	Boolean	+contents:vibrat contents:experiment contents:techniqu contents:shell
+106	Prefix	contents:vibr*
+106	Wildcard	contents:vib*t
+106	Fuzzy	contents:vibrat~2
+106	MatchAll	*:*
+106	OR-Baseline	contents:experiment contents:techniqu contents:shell contents:vibrat
+107	Term	contents:environ
+107	Phrase	contents:"nois environ"
+107	Range-Numeric	len:[62 TO 134]
+107	Range-Lexical	contents:[envi TO environ]
+107	Boolean	+contents:environ contents:summar contents:theoret contents:experiment contents:work contents:behaviour contents:typic contents:aircraft contents:structur contents:nois contents:possibl contents:develop contents:design contents:procedur
+107	Prefix	contents:envi*
+107	Wildcard	contents:env*n
+107	Fuzzy	contents:environ~2
+107	MatchAll	*:*
+107	OR-Baseline	contents:summar contents:theoret contents:experiment contents:work contents:behaviour contents:typic contents:aircraft contents:structur contents:nois contents:environ contents:possibl contents:develop contents:design contents:procedur
+108	Term	contents:acoust
+108	Phrase	contents:"under acoust"
+108	Range-Numeric	len:[62 TO 134]
+108	Range-Lexical	contents:[acou TO acoust]
+108	Boolean	+contents:acoust contents:what contents:data contents:fatigu contents:structur contents:under contents:load
+108	Prefix	contents:acou*
+108	Wildcard	contents:aco*t
+108	Fuzzy	contents:acoust~2
+108	MatchAll	*:*
+108	OR-Baseline	contents:what contents:data contents:fatigu contents:structur contents:under contents:acoust contents:load
+109	Term	contents:panel
+109	Phrase	contents:"panel subject"
+109	Range-Numeric	len:[62 TO 134]
+109	Range-Lexical	contents:[pane TO panel]
+109	Boolean	+contents:panel contents:subject contents:aerodynam contents:heat
+109	Prefix	contents:pane*
+109	Wildcard	contents:pan*l
+109	Fuzzy	contents:panel~2
+109	MatchAll	*:*
+109	OR-Baseline	contents:panel contents:subject contents:aerodynam contents:heat
+110	Term	contents:beyond
+110	Phrase	contents:"beyond ? critic"
+110	Range-Numeric	len:[62 TO 134]
+110	Range-Lexical	contents:[beyo TO beyond]
+110	Boolean	+contents:beyond contents:can contents:increas contents:edg contents:load contents:plate contents:critic contents:valu contents:buckl contents:chang contents:buckl contents:mode
+110	Prefix	contents:beyo*
+110	Wildcard	contents:bey*d
+110	Fuzzy	contents:beyond~2
+110	MatchAll	*:*
+110	OR-Baseline	contents:can contents:increas contents:edg contents:load contents:plate contents:beyond contents:critic contents:valu contents:buckl contents:chang contents:buckl contents:mode
+111	Term	contents:restraint
+111	Phrase	contents:"edg restraint"
+111	Range-Numeric	len:[62 TO 134]
+111	Range-Lexical	contents:[rest TO restraint]
+111	Boolean	+contents:restraint contents:have contents:effect contents:elast contents:edg contents:been contents:consid contents:previou contents:paper contents:panel contents:flutter
+111	Prefix	contents:rest*
+111	Wildcard	contents:res*t
+111	Fuzzy	contents:restraint~2
+111	MatchAll	*:*
+111	OR-Baseline	contents:have contents:effect contents:elast contents:edg contents:restraint contents:been contents:consid contents:previou contents:paper contents:panel contents:flutter
+112	Term	contents:membran
+112	Phrase	contents:"success membran"
+112	Range-Numeric	len:[62 TO 134]
+112	Range-Lexical	contents:[memb TO membran]
+112	Boolean	+contents:membran contents:ha contents:solut contents:clamp contents:plate contents:problem contents:classic contents:theori contents:bend contents:been contents:reduc contents:two contents:success contents:boundari contents:valu contents:problem
+112	Prefix	contents:memb*
+112	Wildcard	contents:mem*n
+112	Fuzzy	contents:membran~2
+112	MatchAll	*:*
+112	OR-Baseline	contents:ha contents:solut contents:clamp contents:plate contents:problem contents:classic contents:theori contents:bend contents:been contents:reduc contents:two contents:success contents:membran contents:boundari contents:valu contents:problem
+113	Term	contents:what
+113	Phrase	contents:"oscillatori aerodynam"
+113	Range-Numeric	len:[62 TO 134]
+113	Range-Lexical	contents:[what TO what]
+113	Boolean	+contents:what contents:data contents:exist contents:oscillatori contents:aerodynam contents:forc contents:control contents:surfac contents:transon contents:mach contents:number
+113	Prefix	contents:what*
+113	Wildcard	contents:what*
+113	Fuzzy	contents:what~2
+113	MatchAll	*:*
+113	OR-Baseline	contents:what contents:data contents:exist contents:oscillatori contents:aerodynam contents:forc contents:control contents:surfac contents:transon contents:mach contents:number
+114	Term	contents:airforc
+114	Phrase	contents:"particular planform"
+114	Range-Numeric	len:[62 TO 134]
+114	Range-Lexical	contents:[airf TO airforc]
+114	Boolean	+contents:airforc contents:like contents:wing contents:gener contents:planform contents:oscil contents:transon contents:flow contents:can contents:determin contents:pure contents:analyt contents:method contents:possibl contents:determin contents:singl contents:particular contents:planform contents:rectangular contents:on contents:method
+114	Prefix	contents:airf*
+114	Wildcard	contents:air*c
+114	Fuzzy	contents:airforc~2
+114	MatchAll	*:*
+114	OR-Baseline	contents:like contents:airforc contents:wing contents:gener contents:planform contents:oscil contents:transon contents:flow contents:can contents:determin contents:pure contents:analyt contents:method contents:possibl contents:determin contents:airforc contents:singl contents:particular contents:planform contents:rectangular contents:on contents:method
+115	Term	contents:intract
+115	Phrase	contents:"aeroelast effect"
+115	Range-Numeric	len:[62 TO 134]
+115	Range-Lexical	contents:[intr TO intract]
+115	Boolean	+contents:intract contents:problem contents:similar contents:repres contents:investig contents:aeroelast contents:effect contents:heat contents:flow contents:previou contents:investig contents:impli
+115	Prefix	contents:intr*
+115	Wildcard	contents:int*t
+115	Fuzzy	contents:intract~2
+115	MatchAll	*:*
+115	OR-Baseline	contents:problem contents:similar contents:repres contents:investig contents:aeroelast contents:effect contents:heat contents:flow contents:intract contents:previou contents:investig contents:impli
+116	Term	contents:what
+116	Phrase	contents:"cylindr portion"
+116	Range-Numeric	len:[62 TO 134]
+116	Range-Lexical	contents:[what TO what]
+116	Boolean	+contents:what contents:magnitud contents:distribut contents:lift contents:over contents:cone contents:cylindr contents:portion contents:cone contents:cylind contents:configur
+116	Prefix	contents:what*
+116	Wildcard	contents:what*
+116	Fuzzy	contents:what~2
+116	MatchAll	*:*
+116	OR-Baseline	contents:what contents:magnitud contents:distribut contents:lift contents:over contents:cone contents:cylindr contents:portion contents:cone contents:cylind contents:configur
+117	Term	contents:boat
+117	Phrase	contents:"boat tail"
+117	Range-Numeric	len:[62 TO 134]
+117	Range-Lexical	contents:[boat TO boat]
+117	Boolean	+contents:boat contents:ani contents:inform contents:how contents:addit contents:tail contents:affect contents:normal contents:forc contents:bodi contents:variou contents:angl contents:incid
+117	Prefix	contents:boat*
+117	Wildcard	contents:boat*
+117	Fuzzy	contents:boat~2
+117	MatchAll	*:*
+117	OR-Baseline	contents:ani contents:inform contents:how contents:addit contents:boat contents:tail contents:affect contents:normal contents:forc contents:bodi contents:variou contents:angl contents:incid
+118	Term	contents:fin
+118	Phrase	contents:"effect ? ? fin"
+118	Range-Numeric	len:[62 TO 134]
+118	Range-Lexical	contents:[fin TO fin]
+118	Boolean	+contents:fin contents:what contents:aerodynam contents:interfer contents:effect contents:lift contents:bodi contents:lift contents:bodi contents:combin
+118	Prefix	contents:fin*
+118	Wildcard	contents:fin*
+118	Fuzzy	contents:fin~2
+118	MatchAll	*:*
+118	OR-Baseline	contents:what contents:aerodynam contents:interfer contents:effect contents:fin contents:lift contents:bodi contents:lift contents:fin contents:bodi contents:combin
+119	Term	contents:hydrostat
+119	Phrase	contents:"under hydrostat"
+119	Range-Numeric	len:[62 TO 134]
+119	Range-Lexical	contents:[hydr TO hydrostat]
+119	Boolean	+contents:hydrostat contents:what contents:effect contents:initi contents:axisymmetr contents:deviat contents:from contents:circular contents:non contents:linear contents:larg contents:deflect contents:load contents:deflect contents:respons contents:cylind contents:under contents:pressur
+119	Prefix	contents:hydr*
+119	Wildcard	contents:hyd*t
+119	Fuzzy	contents:hydrostat~2
+119	MatchAll	*:*
+119	OR-Baseline	contents:what contents:effect contents:initi contents:axisymmetr contents:deviat contents:from contents:circular contents:non contents:linear contents:larg contents:deflect contents:load contents:deflect contents:respons contents:cylind contents:under contents:hydrostat contents:pressur
+120	Term	contents:inaccur
+120	Phrase	contents:"previou analys"
+120	Range-Numeric	len:[62 TO 134]
+120	Range-Lexical	contents:[inac TO inaccur]
+120	Boolean	+contents:inaccur contents:previou contents:analys contents:circumferenti contents:thermal contents:buckl contents:circular contents:cylindr contents:shell contents:unnecessarili contents:involv contents:even contents:due contents:assum contents:form contents:buckl contents:mode
+120	Prefix	contents:inac*
+120	Wildcard	contents:ina*r
+120	Fuzzy	contents:inaccur~2
+120	MatchAll	*:*
+120	OR-Baseline	contents:previou contents:analys contents:circumferenti contents:thermal contents:buckl contents:circular contents:cylindr contents:shell contents:unnecessarili contents:involv contents:even contents:inaccur contents:due contents:assum contents:form contents:buckl contents:mode
+121	Term	contents:what
+121	Phrase	contents:"circumferenti buckl"
+121	Range-Numeric	len:[62 TO 134]
+121	Range-Lexical	contents:[what TO what]
+121	Boolean	+contents:what contents:paper contents:deal contents:circumferenti contents:buckl contents:either contents:thermal contents:buckl contents:due contents:mechan contents:load
+121	Prefix	contents:what*
+121	Wildcard	contents:what*
+121	Fuzzy	contents:what~2
+121	MatchAll	*:*
+121	OR-Baseline	contents:what contents:paper contents:deal contents:circumferenti contents:buckl contents:either contents:thermal contents:buckl contents:due contents:mechan contents:load
+122	Term	contents:what
+122	Phrase	contents:"conic shell"
+122	Range-Numeric	len:[62 TO 134]
+122	Range-Lexical	contents:[what TO what]
+122	Boolean	+contents:what contents:analyt contents:investig contents:have contents:been contents:made contents:stabil contents:conic contents:shell contents:how contents:do contents:result contents:compar contents:experi
+122	Prefix	contents:what*
+122	Wildcard	contents:what*
+122	Fuzzy	contents:what~2
+122	MatchAll	*:*
+122	OR-Baseline	contents:what contents:analyt contents:investig contents:have contents:been contents:made contents:stabil contents:conic contents:shell contents:how contents:do contents:result contents:compar contents:experi
+123	Term	contents:done
+123	Phrase	contents:"straight channel"
+123	Range-Numeric	len:[62 TO 134]
+123	Range-Lexical	contents:[done TO done]
+123	Boolean	+contents:done contents:ha contents:ani contents:work contents:been contents:determin contents:natur contents:compress contents:viscou contents:flow contents:straight contents:channel
+123	Prefix	contents:done*
+123	Wildcard	contents:done*
+123	Fuzzy	contents:done~2
+123	MatchAll	*:*
+123	OR-Baseline	contents:ha contents:ani contents:work contents:been contents:done contents:determin contents:natur contents:compress contents:viscou contents:flow contents:straight contents:channel
+124	Term	contents:what
+124	Phrase	contents:"slender channel"
+124	Range-Numeric	len:[62 TO 134]
+124	Range-Lexical	contents:[what TO what]
+124	Boolean	+contents:what contents:area contents:other contents:than contents:low contents:densiti contents:wind contents:tunnel contents:flow contents:viscou contents:compress contents:flow contents:slender contents:channel contents:problem contents:analyt contents:investig contents:have contents:been contents:made contents:stabil contents:conic contents:shell contents:how contents:do contents:result contents:compar contents:experi
+124	Prefix	contents:what*
+124	Wildcard	contents:what*
+124	Fuzzy	contents:what~2
+124	MatchAll	*:*
+124	OR-Baseline	contents:what contents:area contents:other contents:than contents:low contents:densiti contents:wind contents:tunnel contents:flow contents:viscou contents:compress contents:flow contents:slender contents:channel contents:problem contents:what contents:analyt contents:investig contents:have contents:been contents:made contents:stabil contents:conic contents:shell contents:how contents:do contents:result contents:compar contents:experi
+125	Term	contents:dash
+125	Phrase	contents:"jet interfer"
+125	Range-Numeric	len:[62 TO 134]
+125	Range-Lexical	contents:[dash TO dash]
+125	Boolean	+contents:dash contents:jet contents:interfer contents:superson contents:flow contents:experiment contents:paper
+125	Prefix	contents:dash*
+125	Wildcard	contents:dash*
+125	Fuzzy	contents:dash~2
+125	MatchAll	*:*
+125	OR-Baseline	contents:jet contents:interfer contents:superson contents:flow contents:dash contents:experiment contents:paper
+126	Term	contents:dash
+126	Phrase	contents:"thrust vector"
+126	Range-Numeric	len:[62 TO 134]
+126	Range-Lexical	contents:[dash TO dash]
+126	Boolean	+contents:dash contents:thrust contents:vector contents:control contents:fluid contents:inject contents:paper
+126	Prefix	contents:dash*
+126	Wildcard	contents:dash*
+126	Fuzzy	contents:dash~2
+126	MatchAll	*:*
+126	OR-Baseline	contents:thrust contents:vector contents:control contents:fluid contents:inject contents:dash contents:paper
+127	Term	contents:input
+127	Phrase	contents:"exponenti ? time"
+127	Range-Numeric	len:[62 TO 134]
+127	Range-Lexical	contents:[inpu TO input]
+127	Boolean	+contents:input contents:possibl contents:obtain contents:reason contents:simpl contents:analyt contents:solut contents:heat contents:equat contents:exponenti contents:time contents:heat
+127	Prefix	contents:inpu*
+127	Wildcard	contents:inp*t
+127	Fuzzy	contents:input~2
+127	MatchAll	*:*
+127	OR-Baseline	contents:possibl contents:obtain contents:reason contents:simpl contents:analyt contents:solut contents:heat contents:equat contents:exponenti contents:time contents:heat contents:input
+128	Term	contents:pump
+128	Phrase	contents:"digit comput"
+128	Range-Numeric	len:[62 TO 134]
+128	Range-Lexical	contents:[pump TO pump]
+128	Boolean	+contents:pump contents:ha contents:anyon contents:program contents:design contents:method contents:high contents:speed contents:digit contents:comput
+128	Prefix	contents:pump*
+128	Wildcard	contents:pump*
+128	Fuzzy	contents:pump~2
+128	MatchAll	*:*
+128	OR-Baseline	contents:ha contents:anyon contents:program contents:pump contents:design contents:method contents:high contents:speed contents:digit contents:comput
+129	Term	contents:pump
+129	Phrase	contents:"incompress nonvisc"
+129	Range-Numeric	len:[62 TO 134]
+129	Range-Lexical	contents:[pump TO pump]
+129	Boolean	+contents:pump contents:ha contents:anyon contents:deriv contents:simplifi contents:design contents:equat contents:from contents:fundament contents:three contents:dimension contents:equat contents:incompress contents:nonvisc contents:flow
+129	Prefix	contents:pump*
+129	Wildcard	contents:pump*
+129	Fuzzy	contents:pump~2
+129	MatchAll	*:*
+129	OR-Baseline	contents:ha contents:anyon contents:deriv contents:simplifi contents:pump contents:design contents:equat contents:from contents:fundament contents:three contents:dimension contents:equat contents:incompress contents:nonvisc contents:flow
+130	Term	contents:expos
+130	Phrase	contents:"x 15"
+130	Range-Numeric	len:[62 TO 134]
+130	Range-Lexical	contents:[expo TO expos]
+130	Boolean	+contents:expos contents:what contents:flutter contents:characterist contents:skin contents:panel contents:x contents:15 contents:vertic contents:stabil contents:when contents:subject contents:aerodynam contents:heat
+130	Prefix	contents:expo*
+130	Wildcard	contents:exp*s
+130	Fuzzy	contents:expos~2
+130	MatchAll	*:*
+130	OR-Baseline	contents:what contents:flutter contents:characterist contents:expos contents:skin contents:panel contents:x contents:15 contents:vertic contents:stabil contents:when contents:subject contents:aerodynam contents:heat
+131	Term	contents:collaps
+131	Phrase	contents:"column ? creep"
+131	Range-Numeric	len:[62 TO 134]
+131	Range-Lexical	contents:[coll TO collaps]
+131	Boolean	+contents:collaps contents:what contents:agreement contents:found contents:between contents:theoret contents:predict contents:instabl contents:time contents:experiment contents:measur contents:time contents:compress contents:column contents:creep
+131	Prefix	contents:coll*
+131	Wildcard	contents:col*s
+131	Fuzzy	contents:collaps~2
+131	MatchAll	*:*
+131	OR-Baseline	contents:what contents:agreement contents:found contents:between contents:theoret contents:predict contents:instabl contents:time contents:experiment contents:measur contents:collaps contents:time contents:compress contents:column contents:creep
+132	Term	contents:creep
+132	Phrase	contents:"creep buckl"
+132	Range-Numeric	len:[62 TO 134]
+132	Range-Lexical	contents:[cree TO creep]
+132	Boolean	+contents:creep contents:theoret contents:studi contents:buckl
+132	Prefix	contents:cree*
+132	Wildcard	contents:cre*p
+132	Fuzzy	contents:creep~2
+132	MatchAll	*:*
+132	OR-Baseline	contents:theoret contents:studi contents:creep contents:buckl
+133	Term	contents:creep
+133	Phrase	contents:"creep buckl"
+133	Range-Numeric	len:[62 TO 134]
+133	Range-Lexical	contents:[cree TO creep]
+133	Boolean	+contents:creep contents:experiment contents:studi contents:buckl
+133	Prefix	contents:cree*
+133	Wildcard	contents:cre*p
+133	Fuzzy	contents:creep~2
+133	MatchAll	*:*
+133	OR-Baseline	contents:experiment contents:studi contents:creep contents:buckl
+134	Term	contents:framework
+134	Phrase	contents:"within ? framework"
+134	Range-Numeric	len:[62 TO 134]
+134	Range-Lexical	contents:[fram TO framework]
+134	Boolean	+contents:framework contents:possibl contents:correl contents:result contents:creep contents:buckl contents:wide contents:differ contents:structur contents:within contents:singl contents:theori
+134	Prefix	contents:fram*
+134	Wildcard	contents:fra*k
+134	Fuzzy	contents:framework~2
+134	MatchAll	*:*
+134	OR-Baseline	contents:possibl contents:correl contents:result contents:creep contents:buckl contents:wide contents:differ contents:structur contents:within contents:framework contents:singl contents:theori
+135	Term	contents:what
+135	Phrase	contents:"creep buckl"
+135	Range-Numeric	len:[62 TO 134]
+135	Range-Lexical	contents:[what TO what]
+135	Boolean	+contents:what contents:experiment contents:result contents:creep contents:buckl contents:column
+135	Prefix	contents:what*
+135	Wildcard	contents:what*
+135	Fuzzy	contents:what~2
+135	MatchAll	*:*
+135	OR-Baseline	contents:what contents:experiment contents:result contents:creep contents:buckl contents:column
+136	Term	contents:round
+136	Phrase	contents:"creep buckl"
+136	Range-Numeric	len:[62 TO 134]
+136	Range-Lexical	contents:[roun TO round]
+136	Boolean	+contents:round contents:what contents:result contents:creep contents:buckl contents:tube contents:under contents:extern contents:pressur
+136	Prefix	contents:roun*
+136	Wildcard	contents:rou*d
+136	Fuzzy	contents:round~2
+136	MatchAll	*:*
+136	OR-Baseline	contents:what contents:result contents:creep contents:buckl contents:round contents:tube contents:under contents:extern contents:pressur
+137	Term	contents:collaps
+137	Phrase	contents:"primari ? secondari"
+137	Range-Numeric	len:[62 TO 134]
+137	Range-Lexical	contents:[coll TO collaps]
+137	Boolean	+contents:collaps contents:have contents:ani contents:analyt contents:studi contents:been contents:conduct contents:time contents:failur contents:mechan contents:associ contents:creep contents:long contents:circular contents:cylindr contents:shell contents:which contents:exhibit contents:both contents:primari contents:secondari contents:creep contents:well contents:elast contents:deform contents:under contents:variou contents:distribut contents:forc contents:system
+137	Prefix	contents:coll*
+137	Wildcard	contents:col*s
+137	Fuzzy	contents:collaps~2
+137	MatchAll	*:*
+137	OR-Baseline	contents:have contents:ani contents:analyt contents:studi contents:been contents:conduct contents:time contents:failur contents:mechan contents:associ contents:creep contents:collaps contents:long contents:circular contents:cylindr contents:shell contents:which contents:exhibit contents:both contents:primari contents:secondari contents:creep contents:well contents:elast contents:deform contents:under contents:variou contents:distribut contents:forc contents:system
+138	Term	contents:frequenc
+138	Phrase	contents:"frequenc ? vibrat"
+138	Range-Numeric	len:[62 TO 134]
+138	Range-Lexical	contents:[freq TO frequenc]
+138	Boolean	+contents:frequenc contents:ha contents:effect contents:initi contents:stress contents:vibrat contents:circular contents:cylindr contents:shell contents:been contents:investig
+138	Prefix	contents:freq*
+138	Wildcard	contents:fre*c
+138	Fuzzy	contents:frequenc~2
+138	MatchAll	*:*
+138	OR-Baseline	contents:ha contents:effect contents:initi contents:stress contents:frequenc contents:vibrat contents:circular contents:cylindr contents:shell contents:been contents:investig
+139	Term	contents:deform
+139	Phrase	contents:"frequenc ? vibrat"
+139	Range-Numeric	len:[62 TO 134]
+139	Range-Lexical	contents:[defo TO deform]
+139	Boolean	+contents:deform contents:ha contents:effect contents:chang contents:initi contents:pressur contents:due contents:frequenc contents:vibrat contents:circular contents:cylindr contents:shell contents:been contents:investig
+139	Prefix	contents:defo*
+139	Wildcard	contents:def*m
+139	Fuzzy	contents:deform~2
+139	MatchAll	*:*
+139	OR-Baseline	contents:ha contents:effect contents:chang contents:initi contents:pressur contents:due contents:deform contents:frequenc contents:vibrat contents:circular contents:cylindr contents:shell contents:been contents:investig
+140	Term	contents:junction
+140	Phrase	contents:"discontinu stress"
+140	Range-Numeric	len:[62 TO 134]
+140	Range-Lexical	contents:[junc TO junction]
+140	Boolean	+contents:junction contents:what contents:discontinu contents:stress contents:pressur contents:structur
+140	Prefix	contents:junc*
+140	Wildcard	contents:jun*n
+140	Fuzzy	contents:junction~2
+140	MatchAll	*:*
+140	OR-Baseline	contents:what contents:discontinu contents:stress contents:junction contents:pressur contents:structur
+141	Term	contents:what
+141	Phrase	contents:"shell ? revolut"
+141	Range-Numeric	len:[62 TO 134]
+141	Range-Lexical	contents:[what TO what]
+141	Boolean	+contents:what contents:analyt contents:solut contents:avail contents:stress contents:edg contents:load contents:shell contents:revolut
+141	Prefix	contents:what*
+141	Wildcard	contents:what*
+141	Fuzzy	contents:what~2
+141	MatchAll	*:*
+141	OR-Baseline	contents:what contents:analyt contents:solut contents:avail contents:stress contents:edg contents:load contents:shell contents:revolut
+142	Term	contents:dome
+142	Phrase	contents:"discontinu stress"
+142	Range-Numeric	len:[62 TO 134]
+142	Range-Lexical	contents:[dome TO dome]
+142	Boolean	+contents:dome contents:what contents:contour contents:minim contents:discontinu contents:stress contents:when contents:us contents:closur contents:cylindr contents:pressur contents:vessel
+142	Prefix	contents:dome*
+142	Wildcard	contents:dome*
+142	Fuzzy	contents:dome~2
+142	MatchAll	*:*
+142	OR-Baseline	contents:what contents:dome contents:contour contents:minim contents:discontinu contents:stress contents:when contents:us contents:closur contents:cylindr contents:pressur contents:vessel
+143	Term	contents:what
+143	Phrase	contents:"shell ? revolut"
+143	Range-Numeric	len:[62 TO 134]
+143	Range-Lexical	contents:[what TO what]
+143	Boolean	+contents:what contents:gener contents:solut contents:stress contents:pressur contents:shell contents:revolut contents:avail
+143	Prefix	contents:what*
+143	Wildcard	contents:what*
+143	Fuzzy	contents:what~2
+143	MatchAll	*:*
+143	OR-Baseline	contents:what contents:gener contents:solut contents:stress contents:pressur contents:shell contents:revolut contents:avail
+144	Term	contents:insight
+144	Phrase	contents:"pure membran"
+144	Range-Numeric	len:[62 TO 134]
+144	Range-Lexical	contents:[insi TO insight]
+144	Boolean	+contents:insight contents:can contents:studi contents:pure contents:membran contents:cylind contents:have contents:wall contents:bend contents:stiff contents:maintain contents:shape contents:virtu contents:intern contents:pressur contents:provid contents:ani contents:behaviour contents:pressur contents:cylind contents:finit contents:wall contents:stiff
+144	Prefix	contents:insi*
+144	Wildcard	contents:ins*t
+144	Fuzzy	contents:insight~2
+144	MatchAll	*:*
+144	OR-Baseline	contents:can contents:studi contents:pure contents:membran contents:cylind contents:have contents:wall contents:bend contents:stiff contents:maintain contents:shape contents:virtu contents:intern contents:pressur contents:provid contents:ani contents:insight contents:behaviour contents:pressur contents:cylind contents:finit contents:wall contents:stiff
+145	Term	contents:what
+145	Phrase	contents:"classic small"
+145	Range-Numeric	len:[62 TO 134]
+145	Range-Lexical	contents:[what TO what]
+145	Boolean	+contents:what contents:best contents:experiment contents:data contents:classic contents:small contents:deflect contents:theori contents:analys contents:avail contents:pressur contents:cylind contents:bend
+145	Prefix	contents:what*
+145	Wildcard	contents:what*
+145	Fuzzy	contents:what~2
+145	MatchAll	*:*
+145	OR-Baseline	contents:what contents:best contents:experiment contents:data contents:classic contents:small contents:deflect contents:theori contents:analys contents:avail contents:pressur contents:cylind contents:bend
+146	Term	contents:membran
+146	Phrase	contents:"membran cylind"
+146	Range-Numeric	len:[62 TO 134]
+146	Range-Lexical	contents:[memb TO membran]
+146	Boolean	+contents:membran contents:doe contents:theori contents:exist contents:which contents:behaviour contents:pressur contents:cylind contents:bend contents:can contents:predict
+146	Prefix	contents:memb*
+146	Wildcard	contents:mem*n
+146	Fuzzy	contents:membran~2
+146	MatchAll	*:*
+146	OR-Baseline	contents:doe contents:membran contents:theori contents:exist contents:which contents:behaviour contents:pressur contents:membran contents:cylind contents:bend contents:can contents:predict
+147	Term	contents:corrug
+147	Phrase	contents:"corrug core"
+147	Range-Numeric	len:[62 TO 134]
+147	Range-Lexical	contents:[corr TO corrug]
+147	Boolean	+contents:corrug contents:what contents:equat contents:which contents:defin contents:stabil contents:simpli contents:support contents:core contents:sandwich contents:cylind
+147	Prefix	contents:corr*
+147	Wildcard	contents:cor*g
+147	Fuzzy	contents:corrug~2
+147	MatchAll	*:*
+147	OR-Baseline	contents:what contents:equat contents:which contents:defin contents:stabil contents:simpli contents:support contents:corrug contents:core contents:sandwich contents:cylind
+148	Term	contents:sandwich
+148	Phrase	contents:"buckl ? sandwich"
+148	Range-Numeric	len:[62 TO 134]
+148	Range-Lexical	contents:[sand TO sandwich]
+148	Boolean	+contents:sandwich contents:paper contents:small contents:deflect contents:theori contents:buckl contents:cylind
+148	Prefix	contents:sand*
+148	Wildcard	contents:san*h
+148	Fuzzy	contents:sandwich~2
+148	MatchAll	*:*
+148	OR-Baseline	contents:paper contents:small contents:deflect contents:theori contents:buckl contents:sandwich contents:cylind
+149	Term	contents:behaviour
+149	Phrase	contents:"conic shell"
+149	Range-Numeric	len:[62 TO 134]
+149	Range-Lexical	contents:[beha TO behaviour]
+149	Boolean	+contents:behaviour contents:ha contents:anyon contents:develop contents:analysi contents:which contents:accur contents:establish contents:larg contents:deflect contents:conic contents:shell
+149	Prefix	contents:beha*
+149	Wildcard	contents:beh*r
+149	Fuzzy	contents:behaviour~2
+149	MatchAll	*:*
+149	OR-Baseline	contents:ha contents:anyon contents:develop contents:analysi contents:which contents:accur contents:establish contents:larg contents:deflect contents:behaviour contents:conic contents:shell
+150	Term	contents:what
+150	Phrase	contents:"interfer ? high"
+150	Range-Numeric	len:[62 TO 134]
+150	Range-Lexical	contents:[what TO what]
+150	Boolean	+contents:what contents:magnitud contents:second contents:order contents:wing contents:bodi contents:interfer contents:high contents:superson contents:mach contents:number
+150	Prefix	contents:what*
+150	Wildcard	contents:what*
+150	Fuzzy	contents:what~2
+150	MatchAll	*:*
+150	OR-Baseline	contents:what contents:magnitud contents:second contents:order contents:wing contents:bodi contents:interfer contents:high contents:superson contents:mach contents:number
+151	Term	contents:what
+151	Phrase	contents:"wing alon"
+151	Range-Numeric	len:[62 TO 134]
+151	Range-Lexical	contents:[what TO what]
+151	Boolean	+contents:what contents:best contents:theoret contents:method contents:calcul contents:pressur contents:surfac contents:wing contents:alon
+151	Prefix	contents:what*
+151	Wildcard	contents:what*
+151	Fuzzy	contents:what~2
+151	MatchAll	*:*
+151	OR-Baseline	contents:what contents:best contents:theoret contents:method contents:calcul contents:pressur contents:surfac contents:wing contents:alon
+152	Term	contents:what
+152	Phrase	contents:"it magnitud"
+152	Range-Numeric	len:[62 TO 134]
+152	Range-Lexical	contents:[what TO what]
+152	Boolean	+contents:what contents:how contents:can contents:effect contents:boundari contents:layer contents:wing contents:pressur contents:calcul contents:it contents:magnitud
+152	Prefix	contents:what*
+152	Wildcard	contents:what*
+152	Fuzzy	contents:what~2
+152	MatchAll	*:*
+152	OR-Baseline	contents:how contents:can contents:effect contents:boundari contents:layer contents:wing contents:pressur contents:calcul contents:what contents:it contents:magnitud
+153	Term	contents:navier
+153	Phrase	contents:"navier stoke"
+153	Range-Numeric	len:[62 TO 134]
+153	Range-Lexical	contents:[navi TO navier]
+153	Boolean	+contents:navier contents:how contents:should contents:stoke contents:differ contents:equat contents:solv
+153	Prefix	contents:navi*
+153	Wildcard	contents:nav*r
+153	Fuzzy	contents:navier~2
+153	MatchAll	*:*
+153	OR-Baseline	contents:how contents:should contents:navier contents:stoke contents:differ contents:equat contents:solv
+154	Term	contents:iter
+154	Phrase	contents:"rapidli converg"
+154	Range-Numeric	len:[62 TO 134]
+154	Range-Lexical	contents:[iter TO iter]
+154	Boolean	+contents:iter contents:which contents:method contents:solv contents:linear contents:ellipt contents:differ contents:equat contents:most contents:rapidli contents:converg
+154	Prefix	contents:iter*
+154	Wildcard	contents:iter*
+154	Fuzzy	contents:iter~2
+154	MatchAll	*:*
+154	OR-Baseline	contents:which contents:iter contents:method contents:solv contents:linear contents:ellipt contents:differ contents:equat contents:most contents:rapidli contents:converg
+155	Term	contents:technic
+155	Phrase	contents:"technic report"
+155	Range-Numeric	len:[62 TO 134]
+155	Range-Lexical	contents:[tech TO technic]
+155	Boolean	+contents:technic contents:report contents:measur contents:ablat contents:dure contents:flight
+155	Prefix	contents:tech*
+155	Wildcard	contents:tec*c
+155	Fuzzy	contents:technic~2
+155	MatchAll	*:*
+155	OR-Baseline	contents:technic contents:report contents:measur contents:ablat contents:dure contents:flight
+156	Term	contents:ablat
+156	Phrase	contents:"ablat materi"
+156	Range-Numeric	len:[62 TO 134]
+156	Range-Lexical	contents:[abla TO ablat]
+156	Boolean	+contents:ablat contents:what contents:qualit contents:quantit contents:materi contents:avail contents:materi contents:research
+156	Prefix	contents:abla*
+156	Wildcard	contents:abl*t
+156	Fuzzy	contents:ablat~2
+156	MatchAll	*:*
+156	OR-Baseline	contents:what contents:qualit contents:quantit contents:materi contents:avail contents:ablat contents:materi contents:research
+157	Term	contents:wide
+157	Phrase	contents:"experi ? ? wide"
+157	Range-Numeric	len:[62 TO 134]
+157	Range-Lexical	contents:[wide TO wide]
+157	Boolean	+contents:wide contents:have contents:flow contents:field contents:been contents:calcul contents:blunt contents:nose contents:bodi contents:compar contents:experi contents:rang contents:free contents:stream contents:condit contents:bodi contents:shape
+157	Prefix	contents:wide*
+157	Wildcard	contents:wide*
+157	Fuzzy	contents:wide~2
+157	MatchAll	*:*
+157	OR-Baseline	contents:have contents:flow contents:field contents:been contents:calcul contents:blunt contents:nose contents:bodi contents:compar contents:experi contents:wide contents:rang contents:free contents:stream contents:condit contents:bodi contents:shape
+158	Term	contents:what
+158	Phrase	contents:"properti ? high"
+158	Range-Numeric	len:[62 TO 134]
+158	Range-Lexical	contents:[what TO what]
+158	Boolean	+contents:what contents:avail contents:properti contents:high contents:temperatur contents:air
+158	Prefix	contents:what*
+158	Wildcard	contents:what*
+158	Fuzzy	contents:what~2
+158	MatchAll	*:*
+158	OR-Baseline	contents:what contents:avail contents:properti contents:high contents:temperatur contents:air
+159	Term	contents:launch
+159	Phrase	contents:"launch vehicl"
+159	Range-Numeric	len:[62 TO 134]
+159	Range-Lexical	contents:[laun TO launch]
+159	Boolean	+contents:launch contents:what contents:magnitud contents:aerodynam contents:damp contents:flexibl contents:vibrat contents:mode contents:slender contents:bodi contents:revolut contents:characterist contents:vehicl
+159	Prefix	contents:laun*
+159	Wildcard	contents:lau*h
+159	Fuzzy	contents:launch~2
+159	MatchAll	*:*
+159	OR-Baseline	contents:what contents:magnitud contents:aerodynam contents:damp contents:flexibl contents:vibrat contents:mode contents:slender contents:bodi contents:revolut contents:characterist contents:launch contents:vehicl
+160	Term	contents:torispher
+160	Phrase	contents:"torispher shell"
+160	Range-Numeric	len:[62 TO 134]
+160	Range-Lexical	contents:[tori TO torispher]
+160	Boolean	+contents:torispher contents:compress contents:circumferenti contents:stress contents:shell contents:reveal contents:possibl contents:buckl contents:under contents:intern contents:pressur contents:ha contents:anyon contents:investig contents:which contents:rang contents:shell contents:paramet contents:stress contents:suffici contents:larg contents:caus contents:elast contents:buckl
+160	Prefix	contents:tori*
+160	Wildcard	contents:tor*r
+160	Fuzzy	contents:torispher~2
+160	MatchAll	*:*
+160	OR-Baseline	contents:compress contents:circumferenti contents:stress contents:torispher contents:shell contents:reveal contents:possibl contents:buckl contents:under contents:intern contents:pressur contents:ha contents:anyon contents:investig contents:which contents:rang contents:shell contents:paramet contents:stress contents:suffici contents:larg contents:caus contents:elast contents:buckl
+161	Term	contents:suffici
+161	Phrase	contents:"suffici accur"
+161	Range-Numeric	len:[62 TO 134]
+161	Range-Lexical	contents:[suff TO suffici]
+161	Boolean	+contents:suffici contents:integr contents:method contents:give contents:singl contents:accur contents:method contents:calcul contents:laminar contents:separ contents:point contents:variou contents:incompress contents:compress contents:boundari contents:layer contents:zero contents:heat contents:transfer
+161	Prefix	contents:suff*
+161	Wildcard	contents:suf*i
+161	Fuzzy	contents:suffici~2
+161	MatchAll	*:*
+161	OR-Baseline	contents:integr contents:method contents:give contents:singl contents:suffici contents:accur contents:method contents:calcul contents:laminar contents:separ contents:point contents:variou contents:incompress contents:compress contents:boundari contents:layer contents:zero contents:heat contents:transfer
+162	Term	contents:what
+162	Phrase	contents:"incompress ? compress"
+162	Range-Numeric	len:[62 TO 134]
+162	Range-Lexical	contents:[what TO what]
+162	Boolean	+contents:what contents:accur contents:exact contents:solut contents:laminar contents:separ contents:point contents:variou contents:incompress contents:compress contents:boundari contents:layer contents:zero contents:heat contents:transfer contents:avail
+162	Prefix	contents:what*
+162	Wildcard	contents:what*
+162	Fuzzy	contents:what~2
+162	MatchAll	*:*
+162	OR-Baseline	contents:what contents:accur contents:exact contents:solut contents:laminar contents:separ contents:point contents:variou contents:incompress contents:compress contents:boundari contents:layer contents:zero contents:heat contents:transfer contents:avail
+163	Term	contents:forebodi
+163	Phrase	contents:"ogiv forebodi"
+163	Range-Numeric	len:[62 TO 134]
+163	Range-Lexical	contents:[fore TO forebodi]
+163	Boolean	+contents:forebodi contents:can contents:hyperson contents:similar contents:result contents:appli contents:techniqu contents:predict contents:surfac contents:pressur contents:ogiv contents:angl contents:attack
+163	Prefix	contents:fore*
+163	Wildcard	contents:for*i
+163	Fuzzy	contents:forebodi~2
+163	MatchAll	*:*
+163	OR-Baseline	contents:can contents:hyperson contents:similar contents:result contents:appli contents:techniqu contents:predict contents:surfac contents:pressur contents:ogiv contents:forebodi contents:angl contents:attack
+164	Term	contents:onset
+164	Phrase	contents:"shock induc"
+164	Range-Numeric	len:[62 TO 134]
+164	Range-Lexical	contents:[onse TO onset]
+164	Boolean	+contents:onset contents:what contents:determin contents:shock contents:induc contents:boundari contents:layer contents:separ
+164	Prefix	contents:onse*
+164	Wildcard	contents:ons*t
+164	Fuzzy	contents:onset~2
+164	MatchAll	*:*
+164	OR-Baseline	contents:what contents:determin contents:onset contents:shock contents:induc contents:boundari contents:layer contents:separ
+165	Term	contents:stabl
+165	Phrase	contents:"induc ? ? move"
+165	Range-Numeric	len:[62 TO 134]
+165	Range-Lexical	contents:[stab TO stabl]
+165	Boolean	+contents:stabl contents:profil contents:compress contents:boundari contents:layer contents:induc contents:move contents:wave contents:known
+165	Prefix	contents:stab*
+165	Wildcard	contents:sta*l
+165	Fuzzy	contents:stabl~2
+165	MatchAll	*:*
+165	OR-Baseline	contents:stabl contents:profil contents:compress contents:boundari contents:layer contents:induc contents:move contents:wave contents:known
+166	Term	contents:move
+166	Phrase	contents:"induc ? ? move"
+166	Range-Numeric	len:[62 TO 134]
+166	Range-Lexical	contents:[move TO move]
+166	Boolean	+contents:move contents:experiment contents:result contents:stabil contents:compress contents:boundari contents:layer contents:induc contents:wave
+166	Prefix	contents:move*
+166	Wildcard	contents:move*
+166	Fuzzy	contents:move~2
+166	MatchAll	*:*
+166	OR-Baseline	contents:experiment contents:result contents:stabil contents:compress contents:boundari contents:layer contents:induc contents:move contents:wave
+167	Term	contents:environ
+167	Phrase	contents:"mass loss"
+167	Range-Numeric	len:[62 TO 134]
+167	Range-Lexical	contents:[envi TO environ]
+167	Boolean	+contents:environ contents:exact contents:solut contents:method contents:calcul contents:abl contents:mass contents:loss contents:materi contents:ablat contents:high contents:temperatur contents:hyperson contents:flight
+167	Prefix	contents:envi*
+167	Wildcard	contents:env*n
+167	Fuzzy	contents:environ~2
+167	MatchAll	*:*
+167	OR-Baseline	contents:exact contents:solut contents:method contents:calcul contents:abl contents:mass contents:loss contents:materi contents:ablat contents:high contents:temperatur contents:hyperson contents:flight contents:environ
+168	Term	contents:throat
+168	Phrase	contents:"flow ? ? throat"
+168	Range-Numeric	len:[62 TO 134]
+168	Range-Lexical	contents:[thro TO throat]
+168	Boolean	+contents:throat contents:what contents:approxim contents:solut contents:known contents:direct contents:problem contents:transon contents:flow contents:nozzl contents:i. contents:find contents:flow contents:given contents:nozzl
+168	Prefix	contents:thro*
+168	Wildcard	contents:thr*t
+168	Fuzzy	contents:throat~2
+168	MatchAll	*:*
+168	OR-Baseline	contents:what contents:approxim contents:solut contents:known contents:direct contents:problem contents:transon contents:flow contents:throat contents:nozzl contents:i. contents:find contents:flow contents:given contents:nozzl
+169	Term	contents:indirect
+169	Phrase	contents:"flow ? ? throat"
+169	Range-Numeric	len:[62 TO 134]
+169	Range-Lexical	contents:[indi TO indirect]
+169	Boolean	+contents:indirect contents:what contents:approxim contents:solut contents:known contents:problem contents:transon contents:flow contents:throat contents:nozzl contents:i. contents:find contents:nozzl contents:which contents:ha contents:given contents:axial contents:veloc contents:distribut
+169	Prefix	contents:indi*
+169	Wildcard	contents:ind*t
+169	Fuzzy	contents:indirect~2
+169	MatchAll	*:*
+169	OR-Baseline	contents:what contents:approxim contents:solut contents:known contents:indirect contents:problem contents:transon contents:flow contents:throat contents:nozzl contents:i. contents:find contents:nozzl contents:which contents:ha contents:given contents:axial contents:veloc contents:distribut
+170	Term	contents:why
+170	Phrase	contents:"pitot static"
+170	Range-Numeric	len:[62 TO 134]
+170	Range-Lexical	contents:[why TO why]
+170	Boolean	+contents:why contents:do contents:user contents:orthodox contents:pitot contents:static contents:tube contents:often contents:find contents:calibr contents:appear contents:significantli contents:differ contents:from contents:those contents:formerli contents:specifi contents:b contents:wildli contents:variabl contents:low contents:reynold contents:number
+170	Prefix	contents:why*
+170	Wildcard	contents:why*
+170	Fuzzy	contents:why~2
+170	MatchAll	*:*
+170	OR-Baseline	contents:why contents:do contents:user contents:orthodox contents:pitot contents:static contents:tube contents:often contents:find contents:calibr contents:appear contents:significantli contents:differ contents:from contents:those contents:formerli contents:specifi contents:b contents:wildli contents:variabl contents:low contents:reynold contents:number
+171	Term	contents:blockag
+171	Phrase	contents:"low blockag"
+171	Range-Numeric	len:[62 TO 134]
+171	Range-Lexical	contents:[bloc TO blockag]
+171	Boolean	+contents:blockag contents:ha contents:comparison contents:been contents:made contents:between contents:interfer contents:free contents:drag contents:measur contents:us contents:free contents:flight contents:model contents:similar contents:measur contents:made contents:low contents:wind contents:tunnel
+171	Prefix	contents:bloc*
+171	Wildcard	contents:blo*g
+171	Fuzzy	contents:blockag~2
+171	MatchAll	*:*
+171	OR-Baseline	contents:ha contents:comparison contents:been contents:made contents:between contents:interfer contents:free contents:drag contents:measur contents:us contents:free contents:flight contents:model contents:similar contents:measur contents:made contents:low contents:blockag contents:wind contents:tunnel
+172	Term	contents:blasiu
+172	Phrase	contents:"blasiu problem"
+172	Range-Numeric	len:[62 TO 134]
+172	Range-Lexical	contents:[blas TO blasiu]
+172	Boolean	+contents:blasiu contents:solut contents:problem contents:three contents:point contents:boundari contents:condit
+172	Prefix	contents:blas*
+172	Wildcard	contents:bla*u
+172	Fuzzy	contents:blasiu~2
+172	MatchAll	*:*
+172	OR-Baseline	contents:solut contents:blasiu contents:problem contents:three contents:point contents:boundari contents:condit
+173	Term	contents:lyapunov
+173	Phrase	contents:"period coeffici"
+173	Range-Numeric	len:[62 TO 134]
+173	Range-Lexical	contents:[lyap TO lyapunov]
+173	Boolean	+contents:lyapunov contents:refer contents:method contents:stabil contents:linear contents:differenti contents:equat contents:period contents:coeffici
+173	Prefix	contents:lyap*
+173	Wildcard	contents:lya*v
+173	Fuzzy	contents:lyapunov~2
+173	MatchAll	*:*
+173	OR-Baseline	contents:refer contents:lyapunov contents:method contents:stabil contents:linear contents:differenti contents:equat contents:period contents:coeffici
+174	Term	contents:detach
+174	Phrase	contents:"detach distanc"
+174	Range-Numeric	len:[62 TO 134]
+174	Range-Lexical	contents:[deta TO detach]
+174	Boolean	+contents:detach contents:obtain contents:all contents:paper contents:report contents:contain contents:shock contents:distanc contents:data
+174	Prefix	contents:deta*
+174	Wildcard	contents:det*h
+174	Fuzzy	contents:detach~2
+174	MatchAll	*:*
+174	OR-Baseline	contents:obtain contents:all contents:paper contents:report contents:contain contents:shock contents:detach contents:distanc contents:data
+175	Term	contents:channel
+175	Phrase	contents:"flow ? channel"
+175	Range-Numeric	len:[62 TO 134]
+175	Range-Lexical	contents:[chan TO channel]
+175	Boolean	+contents:channel contents:work contents:flow contents:low contents:reynold contents:number
+175	Prefix	contents:chan*
+175	Wildcard	contents:cha*l
+175	Fuzzy	contents:channel~2
+175	MatchAll	*:*
+175	OR-Baseline	contents:work contents:flow contents:channel contents:low contents:reynold contents:number
+176	Term	contents:biot
+176	Phrase	contents:"approxim analyt"
+176	Range-Numeric	len:[62 TO 134]
+176	Range-Lexical	contents:[biot TO biot]
+176	Boolean	+contents:biot contents:some contents:approxim contents:analyt contents:heat contents:conduct contents:solut contents:us contents:method contents:other contents:than contents:principl
+176	Prefix	contents:biot*
+176	Wildcard	contents:biot*
+176	Fuzzy	contents:biot~2
+176	MatchAll	*:*
+176	OR-Baseline	contents:some contents:approxim contents:analyt contents:heat contents:conduct contents:solut contents:us contents:method contents:other contents:than contents:biot contents:principl
+177	Term	contents:what
+177	Phrase	contents:"axial compressor"
+177	Range-Numeric	len:[62 TO 134]
+177	Range-Lexical	contents:[what TO what]
+177	Boolean	+contents:what contents:mode contents:stall contents:can contents:expect contents:each contents:stage contents:axial contents:compressor
+177	Prefix	contents:what*
+177	Wildcard	contents:what*
+177	Fuzzy	contents:what~2
+177	MatchAll	*:*
+177	OR-Baseline	contents:what contents:mode contents:stall contents:can contents:expect contents:each contents:stage contents:axial contents:compressor
+178	Term	contents:choke
+178	Phrase	contents:"choke line"
+178	Range-Numeric	len:[62 TO 134]
+178	Range-Lexical	contents:[chok TO choke]
+178	Boolean	+contents:choke contents:ha contents:criterion contents:been contents:establish contents:determin contents:axial contents:compressor contents:line
+178	Prefix	contents:chok*
+178	Wildcard	contents:cho*e
+178	Fuzzy	contents:choke~2
+178	MatchAll	*:*
+178	OR-Baseline	contents:ha contents:criterion contents:been contents:establish contents:determin contents:axial contents:compressor contents:choke contents:line
+179	Term	contents:apart
+179	Phrase	contents:"co ordin"
+179	Range-Numeric	len:[62 TO 134]
+179	Range-Lexical	contents:[apar TO apart]
+179	Boolean	+contents:apart contents:ha contents:theori contents:quasi contents:conic contents:flow contents:been contents:develop contents:superson contents:linearis contents:theori contents:which contents:upwash contents:distribut contents:lift contents:surfac contents:from contents:be contents:homogen contents:function contents:co contents:ordin contents:permit contents:have contents:quit contents:gener contents:function contents:form
+179	Prefix	contents:apar*
+179	Wildcard	contents:apa*t
+179	Fuzzy	contents:apart~2
+179	MatchAll	*:*
+179	OR-Baseline	contents:ha contents:theori contents:quasi contents:conic contents:flow contents:been contents:develop contents:superson contents:linearis contents:theori contents:which contents:upwash contents:distribut contents:lift contents:surfac contents:apart contents:from contents:be contents:homogen contents:function contents:co contents:ordin contents:permit contents:have contents:quit contents:gener contents:function contents:form
+180	Term	contents:how
+180	Phrase	contents:"scale height"
+180	Range-Numeric	len:[62 TO 134]
+180	Range-Lexical	contents:[how TO how]
+180	Boolean	+contents:how contents:doe contents:scale contents:height contents:vari contents:altitud contents:atmospher
+180	Prefix	contents:how*
+180	Wildcard	contents:how*
+180	Fuzzy	contents:how~2
+180	MatchAll	*:*
+180	OR-Baseline	contents:how contents:doe contents:scale contents:height contents:vari contents:altitud contents:atmospher
+181	Term	contents:interfer
+181	Phrase	contents:"jet interfer"
+181	Range-Numeric	len:[62 TO 134]
+181	Range-Lexical	contents:[inte TO interfer]
+181	Boolean	+contents:interfer contents:jet contents:superson contents:flow contents:theoret contents:paper
+181	Prefix	contents:inte*
+181	Wildcard	contents:int*r
+181	Fuzzy	contents:interfer~2
+181	MatchAll	*:*
+181	OR-Baseline	contents:jet contents:interfer contents:superson contents:flow contents:theoret contents:paper
+182	Term	contents:15.4
+182	Phrase	contents:"planform doubl"
+182	Range-Numeric	len:[62 TO 134]
+182	Range-Lexical	contents:[15.4 TO 15.4]
+182	Boolean	+contents:15.4 contents:effect contents:lead contents:edg contents:blunt contents:flutter contents:characterist contents:some contents:squar contents:planform contents:doubl contents:wedg contents:airfoil contents:mach contents:number contents:less contents:than
+182	Prefix	contents:15.4*
+182	Wildcard	contents:15.4*
+182	Fuzzy	contents:15.4~2
+182	MatchAll	*:*
+182	OR-Baseline	contents:effect contents:lead contents:edg contents:blunt contents:flutter contents:characterist contents:some contents:squar contents:planform contents:doubl contents:wedg contents:airfoil contents:mach contents:number contents:less contents:than contents:15.4
+183	Term	contents:boom
+183	Phrase	contents:"sonic boom"
+183	Range-Numeric	len:[62 TO 134]
+183	Range-Lexical	contents:[boom TO boom]
+183	Boolean	+contents:boom contents:what contents:factor contents:have contents:been contents:shown contents:have contents:primari contents:influenc contents:sonic contents:strength
+183	Prefix	contents:boom*
+183	Wildcard	contents:boom*
+183	Fuzzy	contents:boom~2
+183	MatchAll	*:*
+183	OR-Baseline	contents:what contents:factor contents:have contents:been contents:shown contents:have contents:primari contents:influenc contents:sonic contents:boom contents:strength
+184	Term	contents:re
+184	Phrase	contents:"re entri"
+184	Range-Numeric	len:[62 TO 134]
+184	Range-Lexical	contents:[re TO re]
+184	Boolean	+contents:re contents:work contents:small contents:oscil contents:entri contents:motion
+184	Prefix	contents:re*
+184	Wildcard	contents:re*
+184	Fuzzy	contents:re~2
+184	MatchAll	*:*
+184	OR-Baseline	contents:work contents:small contents:oscil contents:re contents:entri contents:motion
+185	Term	contents:panel
+185	Phrase	contents:"panel flutter"
+185	Range-Numeric	len:[62 TO 134]
+185	Range-Lexical	contents:[pane TO panel]
+185	Boolean	+contents:panel contents:experiment contents:studi contents:flutter
+185	Prefix	contents:pane*
+185	Wildcard	contents:pan*l
+185	Fuzzy	contents:panel~2
+185	MatchAll	*:*
+185	OR-Baseline	contents:experiment contents:studi contents:panel contents:flutter
+186	Term	contents:ration
+186	Phrase	contents:"interfer effect"
+186	Range-Numeric	len:[62 TO 134]
+186	Range-Lexical	contents:[rati TO ration]
+186	Boolean	+contents:ration contents:how contents:can contents:wing contents:bodi contents:flow contents:field contents:interfer contents:effect contents:approxim
+186	Prefix	contents:rati*
+186	Wildcard	contents:rat*n
+186	Fuzzy	contents:ration~2
+186	MatchAll	*:*
+186	OR-Baseline	contents:how contents:can contents:wing contents:bodi contents:flow contents:field contents:interfer contents:effect contents:approxim contents:ration
+187	Term	contents:intern
+187	Phrase	contents:"cylindr shell"
+187	Range-Numeric	len:[62 TO 134]
+187	Range-Lexical	contents:[inte TO intern]
+187	Boolean	+contents:intern contents:ha contents:anyon contents:analyt contents:experiment contents:investig contents:effect contents:pressur contents:buckl contents:circular contents:cylindr contents:shell contents:under contents:bend
+187	Prefix	contents:inte*
+187	Wildcard	contents:int*n
+187	Fuzzy	contents:intern~2
+187	MatchAll	*:*
+187	OR-Baseline	contents:ha contents:anyon contents:analyt contents:experiment contents:investig contents:effect contents:intern contents:pressur contents:buckl contents:circular contents:cylindr contents:shell contents:under contents:bend
+188	Term	contents:environ
+188	Phrase	contents:"nois environ"
+188	Range-Numeric	len:[62 TO 134]
+188	Range-Lexical	contents:[envi TO environ]
+188	Boolean	+contents:environ contents:what contents:theoret contents:experiment contents:work contents:ha contents:been contents:done contents:excit contents:respons contents:typic contents:structur contents:nois
+188	Prefix	contents:envi*
+188	Wildcard	contents:env*n
+188	Fuzzy	contents:environ~2
+188	MatchAll	*:*
+188	OR-Baseline	contents:what contents:theoret contents:experiment contents:work contents:ha contents:been contents:done contents:excit contents:respons contents:typic contents:structur contents:nois contents:environ
+189	Term	contents:endur
+189	Phrase	contents:"fatigu endur"
+189	Range-Numeric	len:[62 TO 134]
+189	Range-Lexical	contents:[endu TO endur]
+189	Boolean	+contents:endur contents:design contents:method contents:calcul contents:thermal contents:fatigu contents:compon contents:variou contents:type contents:size contents:varieti contents:circumst
+189	Prefix	contents:endu*
+189	Wildcard	contents:end*r
+189	Fuzzy	contents:endur~2
+189	MatchAll	*:*
+189	OR-Baseline	contents:design contents:method contents:calcul contents:thermal contents:fatigu contents:endur contents:compon contents:variou contents:type contents:size contents:varieti contents:circumst
+190	Term	contents:arbitrarili
+190	Phrase	contents:"prove satisfactori"
+190	Range-Numeric	len:[62 TO 134]
+190	Range-Lexical	contents:[arbi TO arbitrarili]
+190	Boolean	+contents:arbitrarili contents:analysi contents:panel contents:flutter contents:base contents:assum contents:mode contents:deform contents:prove contents:satisfactori contents:so contents:what contents:minimum contents:number contents:mode contents:need contents:consid
+190	Prefix	contents:arbi*
+190	Wildcard	contents:arb*i
+190	Fuzzy	contents:arbitrarili~2
+190	MatchAll	*:*
+190	OR-Baseline	contents:analysi contents:panel contents:flutter contents:base contents:arbitrarili contents:assum contents:mode contents:deform contents:prove contents:satisfactori contents:so contents:what contents:minimum contents:number contents:mode contents:need contents:consid
+191	Term	contents:oppos
+191	Phrase	contents:"panel flutter"
+191	Range-Numeric	len:[62 TO 134]
+191	Range-Lexical	contents:[oppo TO oppos]
+191	Boolean	+contents:oppos contents:what contents:criterion contents:true contents:panel contents:flutter contents:small contents:amplitud contents:vibrat contents:aris contents:from contents:acoust contents:disturb
+191	Prefix	contents:oppo*
+191	Wildcard	contents:opp*s
+191	Fuzzy	contents:oppos~2
+191	MatchAll	*:*
+191	OR-Baseline	contents:what contents:criterion contents:true contents:panel contents:flutter contents:oppos contents:small contents:amplitud contents:vibrat contents:aris contents:from contents:acoust contents:disturb
+192	Term	contents:sector
+192	Phrase	contents:"load sector"
+192	Range-Numeric	len:[62 TO 134]
+192	Range-Lexical	contents:[sect TO sector]
+192	Boolean	+contents:sector contents:paper contents:deal contents:uniformli contents:load
+192	Prefix	contents:sect*
+192	Wildcard	contents:sec*r
+192	Fuzzy	contents:sector~2
+192	MatchAll	*:*
+192	OR-Baseline	contents:paper contents:deal contents:uniformli contents:load contents:sector
+193	Term	contents:clamp
+193	Phrase	contents:"clamp plate"
+193	Range-Numeric	len:[62 TO 134]
+193	Range-Lexical	contents:[clam TO clamp]
+193	Boolean	+contents:clamp contents:gener contents:method contents:solv contents:plate contents:problem
+193	Prefix	contents:clam*
+193	Wildcard	contents:cla*p
+193	Fuzzy	contents:clamp~2
+193	MatchAll	*:*
+193	OR-Baseline	contents:gener contents:method contents:solv contents:clamp contents:plate contents:problem
+194	Term	contents:refin
+194	Phrase	contents:"strength ? ? uniform"
+194	Range-Numeric	len:[62 TO 134]
+194	Range-Lexical	contents:[refi TO refin]
+194	Boolean	+contents:refin contents:how contents:can contents:analyt contents:solut contents:buckl contents:strength contents:uniform contents:circular contents:cylind contents:load contents:axial contents:compress contents:so contents:lower contents:buckl contents:load
+194	Prefix	contents:refi*
+194	Wildcard	contents:ref*n
+194	Fuzzy	contents:refin~2
+194	MatchAll	*:*
+194	OR-Baseline	contents:how contents:can contents:analyt contents:solut contents:buckl contents:strength contents:uniform contents:circular contents:cylind contents:load contents:axial contents:compress contents:refin contents:so contents:lower contents:buckl contents:load
+195	Term	contents:help
+195	Phrase	contents:"buckl strength"
+195	Range-Numeric	len:[62 TO 134]
+195	Range-Lexical	contents:[help TO help]
+195	Boolean	+contents:help contents:problem contents:buckl contents:strength contents:uniform contents:circular contents:cylind contents:load contents:axial contents:compress contents:doe contents:linear contents:solut contents:improv contents:non contents:linear contents:on
+195	Prefix	contents:help*
+195	Wildcard	contents:help*
+195	Fuzzy	contents:help~2
+195	MatchAll	*:*
+195	OR-Baseline	contents:problem contents:buckl contents:strength contents:uniform contents:circular contents:cylind contents:load contents:axial contents:compress contents:doe contents:linear contents:solut contents:help contents:improv contents:non contents:linear contents:on
+196	Term	contents:absenc
+196	Phrase	contents:"aeroelast effect"
+196	Range-Numeric	len:[62 TO 134]
+196	Range-Lexical	contents:[abse TO absenc]
+196	Boolean	+contents:absenc contents:problem contents:similar contents:repres contents:investig contents:aeroelast contents:effect contents:flow contents:heat contents:effect
+196	Prefix	contents:abse*
+196	Wildcard	contents:abs*c
+196	Fuzzy	contents:absenc~2
+196	MatchAll	*:*
+196	OR-Baseline	contents:problem contents:similar contents:repres contents:investig contents:aeroelast contents:effect contents:flow contents:absenc contents:heat contents:effect
+197	Term	contents:damag
+197	Phrase	contents:"fatigu damag"
+197	Range-Numeric	len:[62 TO 134]
+197	Range-Lexical	contents:[dama TO damag]
+197	Boolean	+contents:damag contents:how contents:fatigu contents:estim contents:us contents:normal contents:long contents:hand contents:method
+197	Prefix	contents:dama*
+197	Wildcard	contents:dam*g
+197	Fuzzy	contents:damag~2
+197	MatchAll	*:*
+197	OR-Baseline	contents:how contents:fatigu contents:damag contents:estim contents:us contents:normal contents:long contents:hand contents:method
+198	Term	contents:inform
+198	Phrase	contents:"cylindr shell"
+198	Range-Numeric	len:[62 TO 134]
+198	Range-Lexical	contents:[info TO inform]
+198	Boolean	+contents:inform contents:ani contents:avail contents:differ contents:effect contents:variou contents:edg contents:condit contents:buckl contents:cylindr contents:shell
+198	Prefix	contents:info*
+198	Wildcard	contents:inf*m
+198	Fuzzy	contents:inform~2
+198	MatchAll	*:*
+198	OR-Baseline	contents:ani contents:inform contents:avail contents:differ contents:effect contents:variou contents:edg contents:condit contents:buckl contents:cylindr contents:shell
+199	Term	contents:analys
+199	Phrase	contents:"non linear"
+199	Range-Numeric	len:[62 TO 134]
+199	Range-Lexical	contents:[anal TO analys]
+199	Boolean	+contents:analys contents:have contents:non contents:linear contents:larg contents:deflect contents:been contents:conduct contents:shell contents:shape contents:other contents:than contents:conic
+199	Prefix	contents:anal*
+199	Wildcard	contents:ana*s
+199	Fuzzy	contents:analys~2
+199	MatchAll	*:*
+199	OR-Baseline	contents:have contents:non contents:linear contents:larg contents:deflect contents:analys contents:been contents:conduct contents:shell contents:shape contents:other contents:than contents:conic
+200	Term	contents:pre
+200	Phrase	contents:"torispher shell"
+200	Range-Numeric	len:[62 TO 134]
+200	Range-Lexical	contents:[pre TO pre]
+200	Boolean	+contents:pre contents:asymptot contents:method contents:suffici contents:accur contents:determin contents:buckl contents:stress contents:torispher contents:shell contents:must contents:we contents:resort contents:numer contents:method
+200	Prefix	contents:pre*
+200	Wildcard	contents:pre*
+200	Fuzzy	contents:pre~2
+200	MatchAll	*:*
+200	OR-Baseline	contents:asymptot contents:method contents:suffici contents:accur contents:determin contents:pre contents:buckl contents:stress contents:torispher contents:shell contents:must contents:we contents:resort contents:numer contents:method
+201	Term	contents:constitu
+201	Phrase	contents:"re entri"
+201	Range-Numeric	len:[62 TO 134]
+201	Range-Lexical	contents:[cons TO constitu]
+201	Boolean	+contents:constitu contents:what contents:nonequilibrium contents:chemic contents:viscou contents:shock contents:layer contents:ahead contents:blunt contents:re contents:entri contents:vehicl
+201	Prefix	contents:cons*
+201	Wildcard	contents:con*u
+201	Fuzzy	contents:constitu~2
+201	MatchAll	*:*
+201	OR-Baseline	contents:what contents:nonequilibrium contents:chemic contents:constitu contents:viscou contents:shock contents:layer contents:ahead contents:blunt contents:re contents:entri contents:vehicl
+202	Term	contents:how
+202	Phrase	contents:"cone ? incid"
+202	Range-Numeric	len:[62 TO 134]
+202	Range-Lexical	contents:[how TO how]
+202	Boolean	+contents:how contents:accur contents:exist contents:analyt contents:theori contents:estim contents:pressur contents:distribut contents:cone contents:incid contents:hyperson contents:speed
+202	Prefix	contents:how*
+202	Wildcard	contents:how*
+202	Fuzzy	contents:how~2
+202	MatchAll	*:*
+202	OR-Baseline	contents:how contents:accur contents:exist contents:analyt contents:theori contents:estim contents:pressur contents:distribut contents:cone contents:incid contents:hyperson contents:speed
+203	Term	contents:empir
+203	Phrase	contents:"empir method"
+203	Range-Numeric	len:[62 TO 134]
+203	Range-Lexical	contents:[empi TO empir]
+203	Boolean	+contents:empir contents:simpl contents:method contents:ani contents:us contents:estim contents:pressur contents:distribut contents:cone
+203	Prefix	contents:empi*
+203	Wildcard	contents:emp*r
+203	Fuzzy	contents:empir~2
+203	MatchAll	*:*
+203	OR-Baseline	contents:simpl contents:empir contents:method contents:ani contents:us contents:estim contents:pressur contents:distribut contents:cone
+204	Term	contents:serious
+204	Phrase	contents:"modifi pressur"
+204	Range-Numeric	len:[62 TO 134]
+204	Range-Lexical	contents:[seri TO serious]
+204	Boolean	+contents:serious contents:do contents:viscou contents:effect contents:modifi contents:pressur contents:distribut
+204	Prefix	contents:seri*
+204	Wildcard	contents:ser*s
+204	Fuzzy	contents:serious~2
+204	MatchAll	*:*
+204	OR-Baseline	contents:do contents:viscou contents:effect contents:serious contents:modifi contents:pressur contents:distribut
+205	Term	contents:whether
+205	Phrase	contents:"surfac flexibl"
+205	Range-Numeric	len:[62 TO 134]
+205	Range-Lexical	contents:[whet TO whether]
+205	Boolean	+contents:whether contents:ha contents:anyon contents:investig contents:theoret contents:surfac contents:flexibl contents:can contents:stabil contents:laminar contents:boundari contents:layer
+205	Prefix	contents:whet*
+205	Wildcard	contents:whe*r
+205	Fuzzy	contents:whether~2
+205	MatchAll	*:*
+205	OR-Baseline	contents:ha contents:anyon contents:investig contents:theoret contents:whether contents:surfac contents:flexibl contents:can contents:stabil contents:laminar contents:boundari contents:layer
+206	Term	contents:facil
+206	Phrase	contents:"langlei transon"
+206	Range-Numeric	len:[62 TO 134]
+206	Range-Lexical	contents:[faci TO facil]
+206	Boolean	+contents:facil contents:how contents:do contents:subson contents:transon contents:flutter contents:data contents:measur contents:new contents:langlei contents:transon contents:dynam contents:tunnel contents:compar contents:similar contents:data contents:obtain contents:other
+206	Prefix	contents:faci*
+206	Wildcard	contents:fac*l
+206	Fuzzy	contents:facil~2
+206	MatchAll	*:*
+206	OR-Baseline	contents:how contents:do contents:subson contents:transon contents:flutter contents:data contents:measur contents:new contents:langlei contents:transon contents:dynam contents:tunnel contents:compar contents:similar contents:data contents:obtain contents:other contents:facil
+207	Term	contents:quantit
+207	Phrase	contents:"affect wing"
+207	Range-Numeric	len:[62 TO 134]
+207	Range-Lexical	contents:[quan TO quantit]
+207	Boolean	+contents:quantit contents:how contents:do contents:larg contents:chang contents:new contents:mass contents:ratio contents:affect contents:wing contents:flutter contents:boundari
+207	Prefix	contents:quan*
+207	Wildcard	contents:qua*t
+207	Fuzzy	contents:quantit~2
+207	MatchAll	*:*
+207	OR-Baseline	contents:how contents:do contents:larg contents:chang contents:new contents:mass contents:ratio contents:quantit contents:affect contents:wing contents:flutter contents:boundari
+208	Term	contents:spacecraft
+208	Phrase	contents:"re entri"
+208	Range-Numeric	len:[62 TO 134]
+208	Range-Lexical	contents:[spac TO spacecraft]
+208	Boolean	+contents:spacecraft contents:what contents:effect contents:shape contents:drag contents:polar contents:lift contents:amount contents:reduct contents:maximum contents:deceler contents:obtain contents:continu contents:vari contents:aerodynam contents:coeffici contents:dure contents:re contents:entri
+208	Prefix	contents:spac*
+208	Wildcard	contents:spa*t
+208	Fuzzy	contents:spacecraft~2
+208	MatchAll	*:*
+208	OR-Baseline	contents:what contents:effect contents:shape contents:drag contents:polar contents:lift contents:spacecraft contents:amount contents:reduct contents:maximum contents:deceler contents:obtain contents:continu contents:vari contents:aerodynam contents:coeffici contents:dure contents:re contents:entri
+209	Term	contents:what
+209	Phrase	contents:"physic signific"
+209	Range-Numeric	len:[62 TO 134]
+209	Range-Lexical	contents:[what TO what]
+209	Boolean	+contents:what contents:physic contents:signific contents:characterist contents:separ contents:laminar contents:turbul contents:boundari contents:layer contents:flow
+209	Prefix	contents:what*
+209	Wildcard	contents:what*
+209	Fuzzy	contents:what~2
+209	MatchAll	*:*
+209	OR-Baseline	contents:what contents:physic contents:signific contents:characterist contents:separ contents:laminar contents:turbul contents:boundari contents:layer contents:flow
+210	Term	contents:soft
+210	Phrase	contents:"soft elast"
+210	Range-Numeric	len:[62 TO 134]
+210	Range-Lexical	contents:[soft TO soft]
+210	Boolean	+contents:soft contents:ha contents:anyon contents:analyt contents:investig contents:stabil contents:influenc contents:elast contents:core contents:buckl contents:strength contents:cylindr contents:shell contents:subject contents:non contents:uniform contents:extern contents:pressur
+210	Prefix	contents:soft*
+210	Wildcard	contents:soft*
+210	Fuzzy	contents:soft~2
+210	MatchAll	*:*
+210	OR-Baseline	contents:ha contents:anyon contents:analyt contents:investig contents:stabil contents:influenc contents:soft contents:elast contents:core contents:buckl contents:strength contents:cylindr contents:shell contents:subject contents:non contents:uniform contents:extern contents:pressur
+211	Term	contents:what
+211	Phrase	contents:"non uniform"
+211	Range-Numeric	len:[62 TO 134]
+211	Range-Lexical	contents:[what TO what]
+211	Boolean	+contents:what contents:paper contents:avail contents:buckl contents:empti contents:cylindr contents:shell contents:under contents:non contents:uniform contents:pressur
+211	Prefix	contents:what*
+211	Wildcard	contents:what*
+211	Fuzzy	contents:what~2
+211	MatchAll	*:*
+211	OR-Baseline	contents:what contents:paper contents:avail contents:buckl contents:empti contents:cylindr contents:shell contents:under contents:non contents:uniform contents:pressur
+212	Term	contents:what
+212	Phrase	contents:"ring stiffen"
+212	Range-Numeric	len:[62 TO 134]
+212	Range-Lexical	contents:[what TO what]
+212	Boolean	+contents:what contents:effect contents:do contents:thermal contents:stress contents:have contents:compress contents:buckl contents:strength contents:ring contents:stiffen contents:cylind
+212	Prefix	contents:what*
+212	Wildcard	contents:what*
+212	Fuzzy	contents:what~2
+212	MatchAll	*:*
+212	OR-Baseline	contents:what contents:effect contents:do contents:thermal contents:stress contents:have contents:compress contents:buckl contents:strength contents:ring contents:stiffen contents:cylind
+213	Term	contents:what
+213	Phrase	contents:"circumferenti stress"
+213	Range-Numeric	len:[62 TO 134]
+213	Range-Lexical	contents:[what TO what]
+213	Boolean	+contents:what contents:effect contents:cylind contents:buckl contents:circumferenti contents:stress contents:system contents:vari contents:axial contents:direct
+213	Prefix	contents:what*
+213	Wildcard	contents:what*
+213	Fuzzy	contents:what~2
+213	MatchAll	*:*
+213	OR-Baseline	contents:what contents:effect contents:cylind contents:buckl contents:circumferenti contents:stress contents:system contents:vari contents:axial contents:direct
+214	Term	contents:matrix
+214	Phrase	contents:"shallow shell"
+214	Range-Numeric	len:[62 TO 134]
+214	Range-Lexical	contents:[matr TO matrix]
+214	Boolean	+contents:matrix contents:can contents:non contents:linear contents:shallow contents:shell contents:analysi contents:reduc contents:engin contents:techniqu contents:us
+214	Prefix	contents:matr*
+214	Wildcard	contents:mat*x
+214	Fuzzy	contents:matrix~2
+214	MatchAll	*:*
+214	OR-Baseline	contents:can contents:non contents:linear contents:shallow contents:shell contents:analysi contents:reduc contents:engin contents:techniqu contents:us contents:matrix
+215	Term	contents:shroud
+215	Phrase	contents:"shroud which"
+215	Range-Numeric	len:[62 TO 134]
+215	Range-Lexical	contents:[shro TO shroud]
+215	Boolean	+contents:shroud contents:possibl contents:predict contents:shape contents:which contents:allow contents:simul contents:nose contents:region contents:flow contents:field contents:sphere contents:hyperson contents:flow
+215	Prefix	contents:shro*
+215	Wildcard	contents:shr*d
+215	Fuzzy	contents:shroud~2
+215	MatchAll	*:*
+215	OR-Baseline	contents:possibl contents:predict contents:shape contents:shroud contents:which contents:allow contents:simul contents:nose contents:region contents:flow contents:field contents:sphere contents:hyperson contents:flow
+216	Term	contents:creat
+216	Phrase	contents:"wave system"
+216	Range-Numeric	len:[62 TO 134]
+216	Range-Lexical	contents:[crea TO creat]
+216	Boolean	+contents:creat contents:what contents:investig contents:have contents:been contents:made contents:wave contents:system contents:static contents:pressur contents:distribut contents:over contents:liquid contents:surfac
+216	Prefix	contents:crea*
+216	Wildcard	contents:cre*t
+216	Fuzzy	contents:creat~2
+216	MatchAll	*:*
+216	OR-Baseline	contents:what contents:investig contents:have contents:been contents:made contents:wave contents:system contents:creat contents:static contents:pressur contents:distribut contents:over contents:liquid contents:surfac
+217	Term	contents:vortic
+217	Phrase	contents:"transfer ? ? blunt"
+217	Range-Numeric	len:[62 TO 134]
+217	Range-Lexical	contents:[vort TO vortic]
+217	Boolean	+contents:vortic contents:ha contents:anyon contents:investig contents:effect contents:shock contents:gener contents:heat contents:transfer contents:blunt contents:bodi
+217	Prefix	contents:vort*
+217	Wildcard	contents:vor*c
+217	Fuzzy	contents:vortic~2
+217	MatchAll	*:*
+217	OR-Baseline	contents:ha contents:anyon contents:investig contents:effect contents:shock contents:gener contents:vortic contents:heat contents:transfer contents:blunt contents:bodi
+218	Term	contents:absenc
+218	Phrase	contents:"transfer ? ? blunt"
+218	Range-Numeric	len:[62 TO 134]
+218	Range-Lexical	contents:[abse TO absenc]
+218	Boolean	+contents:absenc contents:what contents:heat contents:transfer contents:blunt contents:bodi contents:vortic
+218	Prefix	contents:abse*
+218	Wildcard	contents:abs*c
+218	Fuzzy	contents:absenc~2
+218	MatchAll	*:*
+218	OR-Baseline	contents:what contents:heat contents:transfer contents:blunt contents:bodi contents:absenc contents:vortic
+219	Term	contents:what
+219	Phrase	contents:"field when"
+219	Range-Numeric	len:[62 TO 134]
+219	Range-Lexical	contents:[what TO what]
+219	Boolean	+contents:what contents:gener contents:effect contents:flow contents:field contents:when contents:reynold contents:number contents:small
+219	Prefix	contents:what*
+219	Wildcard	contents:what*
+219	Fuzzy	contents:what~2
+219	MatchAll	*:*
+219	OR-Baseline	contents:what contents:gener contents:effect contents:flow contents:field contents:when contents:reynold contents:number contents:small
+220	Term	contents:find
+220	Phrase	contents:"good accuraci"
+220	Range-Numeric	len:[62 TO 134]
+220	Range-Lexical	contents:[find TO find]
+220	Boolean	+contents:find contents:calcul contents:procedur contents:applic contents:all contents:incompress contents:laminar contents:boundari contents:layer contents:flow contents:problem contents:have contents:good contents:accuraci contents:reason contents:comput contents:time
+220	Prefix	contents:find*
+220	Wildcard	contents:find*
+220	Fuzzy	contents:find~2
+220	MatchAll	*:*
+220	OR-Baseline	contents:find contents:calcul contents:procedur contents:applic contents:all contents:incompress contents:laminar contents:boundari contents:layer contents:flow contents:problem contents:have contents:good contents:accuraci contents:reason contents:comput contents:time
+221	Term	contents:arbitrari
+221	Phrase	contents:"procedur ? laminar"
+221	Range-Numeric	len:[62 TO 134]
+221	Range-Lexical	contents:[arbi TO arbitrari]
+221	Boolean	+contents:arbitrari contents:paper contents:applic contents:problem contents:calcul contents:procedur contents:laminar contents:incompress contents:flow contents:pressur contents:gradient
+221	Prefix	contents:arbi*
+221	Wildcard	contents:arb*i
+221	Fuzzy	contents:arbitrari~2
+221	MatchAll	*:*
+221	OR-Baseline	contents:paper contents:applic contents:problem contents:calcul contents:procedur contents:laminar contents:incompress contents:flow contents:arbitrari contents:pressur contents:gradient
+222	Term	contents:stiffen
+222	Phrase	contents:"buckl ? stiffen"
+222	Range-Numeric	len:[62 TO 134]
+222	Range-Lexical	contents:[stif TO stiffen]
+222	Boolean	+contents:stiffen contents:ha contents:anyon contents:investig contents:shear contents:buckl contents:plate
+222	Prefix	contents:stif*
+222	Wildcard	contents:sti*n
+222	Fuzzy	contents:stiffen~2
+222	MatchAll	*:*
+222	OR-Baseline	contents:ha contents:anyon contents:investig contents:shear contents:buckl contents:stiffen contents:plate
+223	Term	contents:unstiffen
+223	Phrase	contents:"unstiffen rectangular"
+223	Range-Numeric	len:[62 TO 134]
+223	Range-Lexical	contents:[unst TO unstiffen]
+223	Boolean	+contents:unstiffen contents:paper contents:shear contents:buckl contents:rectangular contents:plate contents:under contents:shear
+223	Prefix	contents:unst*
+223	Wildcard	contents:uns*n
+223	Fuzzy	contents:unstiffen~2
+223	MatchAll	*:*
+223	OR-Baseline	contents:paper contents:shear contents:buckl contents:unstiffen contents:rectangular contents:plate contents:under contents:shear
+224	Term	contents:nitrogen
+224	Phrase	contents:"thermodynam equilibrium"
+224	Range-Numeric	len:[62 TO 134]
+224	Range-Lexical	contents:[nitr TO nitrogen]
+224	Boolean	+contents:nitrogen contents:practic contents:how contents:close contents:realiti contents:assumpt contents:flow contents:hyperson contents:shock contents:tube contents:us contents:non contents:viscou contents:thermodynam contents:equilibrium
+224	Prefix	contents:nitr*
+224	Wildcard	contents:nit*n
+224	Fuzzy	contents:nitrogen~2
+224	MatchAll	*:*
+224	OR-Baseline	contents:practic contents:how contents:close contents:realiti contents:assumpt contents:flow contents:hyperson contents:shock contents:tube contents:us contents:nitrogen contents:non contents:viscou contents:thermodynam contents:equilibrium
+225	Term	contents:what
+225	Phrase	contents:"lift drag"
+225	Range-Numeric	len:[62 TO 134]
+225	Range-Lexical	contents:[what TO what]
+225	Boolean	+contents:what contents:design contents:factor contents:can contents:us contents:control contents:lift contents:drag contents:ratio contents:mach contents:number contents:abov contents:5
+225	Prefix	contents:what*
+225	Wildcard	contents:what*
+225	Fuzzy	contents:what~2
+225	MatchAll	*:*
+225	OR-Baseline	contents:what contents:design contents:factor contents:can contents:us contents:control contents:lift contents:drag contents:ratio contents:mach contents:number contents:abov contents:5
